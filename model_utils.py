@@ -72,6 +72,13 @@ class ModelParams:
         self.fusion = _update('fusion', {'type': 'LQA', 'cross_embed_red': 'avg', 'dropout': 0})
         if align_lr_to_clr and self.config['lr'] != self.clr['max_lr']:
             self.config['lr'] = self.clr['max_lr']
+    def __deepcopy__(self, memo):
+        cls = self.__class__
+        copied = cls(_from_json=True)
+        memo[id(self)] = copied
+        for attr, value in self.__dict__.items():
+            setattr(copied, attr, copy.deepcopy(value, memo))
+        return copied
     def select_features(self, data, expr_all=False, mut_all=False):
         self.clin_features = data.cols['clin']
         self.expr_features = data.features['expr'] # same as data.cols['expr']
