@@ -109,13 +109,13 @@ def get_gene_reg(model, device, use_gene_reg, gene_reg_weight=1e-4):
     if not use_gene_reg: return torch.tensor(0.0, device=device)
     return (torch.norm(model.sel_e.weights, p=1) + torch.norm(model.sel_m.weights, p=1)) * gene_reg_weight
 
-def save_model_weights(mdl, fn):
-    torch.save(mdl.state_dict(), f"results/weights/{fn}.pth")
+def save_model_weights(mdl, fn, folder='results/weights'):
+    torch.save(mdl.state_dict(), f"{folder}/{fn}.pth")
 
-def load_saved_model(fn, params, device, seed=None):
+def load_saved_model(fn, params, device, seed=None, folder='results/weights'):
     #if seed is not None: set_seed(seed, deterministic=True)
     model = MultiModalNN(params).to(device)
-    model.load_state_dict(torch.load(f"results/weights/{fn}.pth"))
+    model.load_state_dict(torch.load(f"{folder}/{fn}.pth"))
     return model
 
 """ CORAL loss between source and target feature tensors """
