@@ -208,7 +208,7 @@ class CorrelationAnalysis:
         return ((s < (q1 - 1.5 * iqr)) | (s > (q3 + 1.5 * iqr))).sum()
 
 class ExpressionStabilitySelector:
-    def __init__(self, action, x=None, y=None, method='fpr', fn='', n_boots=100, fpr_alpha=0.05, mi_quantile=0.5, rs=42):             
+    def __init__(self, action, x=None, y=None, method='fpr', fn='', dp='data/', n_boots=100, fpr_alpha=0.05, mi_quantile=0.5, rs=42):             
         self.sel_freq = load_data('pd', fn, 'data/') if action=='load' else self.calc_freq(x, y, method, fn, n_boots, fpr_alpha, mi_quantile, rs)
 
     def calc_freq(self, x, y, method, fn, n_boots, fpr_alpha, mi_quantile, rs):  
@@ -227,7 +227,7 @@ class ExpressionStabilitySelector:
             feature_counts[selected] += 1
         selection_freq = feature_counts / n_boots
         if fn != '': 
-            write_file('pd', fn, selection_freq, 'data/')
+            write_file('pd', fn, selection_freq, dp)
         return selection_freq
     
     def select_by_threshold(self, stability_threshold=0.8):
