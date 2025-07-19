@@ -1,0 +1,6 @@
+Supplementary Data 1.zip: Data for Figures 4 and S4 [baselines_results_dict.json, lunar_results_dict.json]
+Supplementary Data 2.zip: Data for Figure 5 [tcga_shap.csv]
+Supplementary Data 3.zip: Data for Figure S1 [tcga_variant_dist.csv]
+Supplementary Data 4.zip: Data for Figure S2 [glass_variant_dist.csv]
+Supplementary Data 5.zip: Data for Figure S3 [mutation_freqs.csv]
+Supplementary Data 6.zip: Data for Figure S5 [tcga_attention_weights.csv, glass_attention_weights.csv, attention_boxplot_table.csv]
