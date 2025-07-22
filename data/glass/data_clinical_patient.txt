@@ -1,0 +1,334 @@
+#Patient Identifier	Project ID	Sex	Age	Overall Survival	Overall Survival (months)	Tissue Source
+#Unique patient identifier	Indicates whether the data was collected for the purpose of GLASS or TCGA	Sex	Patient's age at first diagnosis	Overall patient survival status	Overall survival in months since first diagnosis to last known follow-up	Tissue source site for each subject
+#STRING	STRING	STRING	NUMBER	STRING	NUMBER	STRING
+#1	1	1	1	1	1	1
+PATIENT_ID	CASE_PROJECT	SEX	AGE	OS_STATUS	OS_MONTHS	TISSUE_SOURCE
+GLSS-19-0266	GLSS	Male	71	1:DECEASED	35	Case Western  Reserve University
+GLSS-19-0267	GLSS	Male	61	1:DECEASED	14	Case Western  Reserve University
+GLSS-19-0268	GLSS	Male	64	1:DECEASED	12	Case Western  Reserve University
+GLSS-19-0269	GLSS	Male	57	1:DECEASED	16	Case Western  Reserve University
+GLSS-19-0271	GLSS	Male	56	1:DECEASED	14	Case Western  Reserve University
+GLSS-19-0272	GLSS	Male	49	1:DECEASED	22	Case Western  Reserve University
+GLSS-19-0273	GLSS	Male	48	1:DECEASED	29	Case Western  Reserve University
+GLSS-19-0274	GLSS	Male	72	1:DECEASED	13	Case Western  Reserve University
+GLSS-19-0275	GLSS	Male	63	1:DECEASED	19	Case Western  Reserve University
+GLSS-19-0278	GLSS	Male	47	1:DECEASED	19	Case Western  Reserve University
+GLSS-19-0279	GLSS	Male	34	1:DECEASED	11	Case Western  Reserve University
+GLSS-19-0280	GLSS	Female	58	1:DECEASED	22	Case Western  Reserve University
+GLSS-AT-00P1	GLSS	Male	47	1:DECEASED	37	Medical University of Vienna - CeMM
+GLSS-AT-00P2	GLSS	Female	75	1:DECEASED	14	Medical University of Vienna - CeMM
+GLSS-AT-00P3	GLSS	Male	50	1:DECEASED	25	Medical University of Vienna - CeMM
+GLSS-AT-00P4	GLSS	Female	64	1:DECEASED	14	Medical University of Vienna - CeMM
+GLSS-AT-00P5	GLSS	Male	54	1:DECEASED	23	Medical University of Vienna - CeMM
+GLSS-AT-00P6	GLSS	Female	58	1:DECEASED	14	Medical University of Vienna - CeMM
+GLSS-AT-00P7	GLSS	Male	53	1:DECEASED	21	Medical University of Vienna - CeMM
+GLSS-AT-GP01	GLSS	Male	58	1:DECEASED	13	Medical University of Vienna - CeMM
+GLSS-CU-P003	GLSS	Male	40	0:LIVING	25	Columbia University
+GLSS-CU-P013	GLSS	Female	51	1:DECEASED	55	Columbia University
+GLSS-CU-P020	GLSS	Male	61	1:DECEASED	34	Columbia University
+GLSS-CU-P021	GLSS	Male	58	1:DECEASED	10	Columbia University
+GLSS-CU-P024	GLSS	Female	32	0:LIVING	36	Columbia University
+GLSS-CU-P046	GLSS	Female	60	0:LIVING	45	Columbia University
+GLSS-CU-P053	GLSS	Male	68	1:DECEASED	31	Columbia University
+GLSS-CU-P055	GLSS	Male	65	0:LIVING	23	Columbia University
+GLSS-CU-P056	GLSS	Female	53	1:DECEASED	19	Columbia University
+GLSS-CU-P069	GLSS	Female	65	1:DECEASED	15	Columbia University
+GLSS-CU-P071	GLSS	Male	69	1:DECEASED	15	Columbia University
+GLSS-CU-P100	GLSS	Male	29	0:LIVING	46	Columbia University
+GLSS-CU-P101	GLSS	Male	29	1:DECEASED	45	Columbia University
+GLSS-CU-P102	GLSS	Female	63	0:LIVING	24	Columbia University
+GLSS-CU-P104	GLSS	Female	38	0:LIVING	46	Columbia University
+GLSS-CU-R001	GLSS	Male	70	1:DECEASED	7	Columbia University
+GLSS-CU-R002	GLSS	Male	42	1:DECEASED	18	Columbia University
+GLSS-CU-R003	GLSS	Male	67	1:DECEASED	17	Columbia University
+GLSS-CU-R004	GLSS	Female	50	1:DECEASED	27	Columbia University
+GLSS-CU-R005	GLSS	Female	58	1:DECEASED	13	Columbia University
+GLSS-CU-R006	GLSS	Male	59	1:DECEASED	18	Columbia University
+GLSS-CU-R007	GLSS	Male	69	1:DECEASED	21	Columbia University
+GLSS-CU-R008	GLSS	Female	46	1:DECEASED	15	Columbia University
+GLSS-CU-R009	GLSS	Female	67	1:DECEASED	46	Columbia University
+GLSS-CU-R010	GLSS	Male	50	1:DECEASED	23	Columbia University
+GLSS-CU-R011	GLSS	Male	53	1:DECEASED	18	Columbia University
+GLSS-CU-R012	GLSS	Male	49	1:DECEASED	45	Columbia University
+GLSS-CU-R013	GLSS	Female	67	1:DECEASED	25	Columbia University
+GLSS-CU-R014	GLSS	Male	57	1:DECEASED	9	Columbia University
+GLSS-CU-R015	GLSS	Male	47	1:DECEASED	19	Columbia University
+GLSS-CU-R016	GLSS	Male	61	1:DECEASED	18	Columbia University
+GLSS-CU-R017	GLSS	Female	33	1:DECEASED	30	Columbia University
+GLSS-CU-R018	GLSS	Male	52	1:DECEASED	25	Columbia University
+GLSS-CU-R019	GLSS	Male	48	1:DECEASED	18	Columbia University
+GLSS-DF-0002	GLSS	Male	69	1:DECEASED	11	Dana-Farber Cancer Center
+GLSS-DF-0003	GLSS	Male	51	1:DECEASED	9	Dana-Farber Cancer Center
+GLSS-DF-0004	GLSS	Male	51	1:DECEASED	5	Dana-Farber Cancer Center
+GLSS-DF-0006	GLSS	Male	36	1:DECEASED	16	Dana-Farber Cancer Center
+GLSS-DF-0007	GLSS	Female	68	1:DECEASED	26	Dana-Farber Cancer Center
+GLSS-DF-0010	GLSS	Female	68	1:DECEASED	6	Dana-Farber Cancer Center
+GLSS-DF-0012	GLSS	Female	50	1:DECEASED	11	Dana-Farber Cancer Center
+GLSS-DF-0013	GLSS	Male	30	1:DECEASED	26	Dana-Farber Cancer Center
+GLSS-DF-0014	GLSS	Male	62	1:DECEASED	14	Dana-Farber Cancer Center
+GLSS-DK-0001	GLSS		NA		NA	German Cancer Research Center
+GLSS-DK-0002	GLSS		NA		NA	German Cancer Research Center
+GLSS-DK-0003	GLSS		NA		NA	German Cancer Research Center
+GLSS-DK-0004	GLSS		NA		NA	German Cancer Research Center
+GLSS-DK-0005	GLSS		NA		NA	German Cancer Research Center
+GLSS-DK-0006	GLSS		NA		NA	German Cancer Research Center
+GLSS-DK-0007	GLSS		NA		NA	German Cancer Research Center
+GLSS-DK-0008	GLSS		NA		NA	German Cancer Research Center
+GLSS-DK-0009	GLSS		NA		NA	German Cancer Research Center
+GLSS-DK-0010	GLSS		NA		NA	German Cancer Research Center
+GLSS-DK-0011	GLSS		NA		NA	German Cancer Research Center
+GLSS-DK-0012	GLSS		NA		NA	German Cancer Research Center
+GLSS-DK-0013	GLSS		NA		NA	German Cancer Research Center
+GLSS-DK-0014	GLSS		NA		NA	German Cancer Research Center
+GLSS-DK-0015	GLSS		NA		NA	German Cancer Research Center
+GLSS-HF-1CCD	GLSS	Male	50	1:DECEASED	21	Henry Ford Hospital
+GLSS-HF-1DDC	GLSS	Male	65	1:DECEASED	20	Henry Ford Hospital
+GLSS-HF-4B46	GLSS	Male	32	0:LIVING	50	Henry Ford Hospital
+GLSS-HF-4D9A	GLSS	Male	43	1:DECEASED	17	Henry Ford Hospital
+GLSS-HF-4F0A	GLSS	Male	35	1:DECEASED	139	Henry Ford Hospital
+GLSS-HF-4FBF	GLSS	Male	52	1:DECEASED	56	Henry Ford Hospital
+GLSS-HF-7CAC	GLSS	Male	82	1:DECEASED	31	Henry Ford Hospital
+GLSS-HF-8FCD	GLSS	Female	51	1:DECEASED	54	Henry Ford Hospital
+GLSS-HF-9A7A	GLSS	Male	49	1:DECEASED	75	Henry Ford Hospital
+GLSS-HF-50F3	GLSS	Male	46	1:DECEASED	36	Henry Ford Hospital
+GLSS-HF-57AE	GLSS	Female	59	1:DECEASED	11	Henry Ford Hospital
+GLSS-HF-2548	GLSS	Male	52	1:DECEASED	40	Henry Ford Hospital
+GLSS-HF-2829	GLSS	Female	44	1:DECEASED	13	Henry Ford Hospital
+GLSS-HF-2869	GLSS	Female	35	1:DECEASED	142	Henry Ford Hospital
+GLSS-HF-2919	GLSS	Male	64	1:DECEASED	19	Henry Ford Hospital
+GLSS-HF-2934	GLSS	Male	46	1:DECEASED	17	Henry Ford Hospital
+GLSS-HF-3016	GLSS	Male	45	1:DECEASED	21	Henry Ford Hospital
+GLSS-HF-3050	GLSS	Male	63	1:DECEASED	22	Henry Ford Hospital
+GLSS-HF-3081	GLSS	Female	62	1:DECEASED	39	Henry Ford Hospital
+GLSS-HF-3118	GLSS	Male	67	1:DECEASED	20	Henry Ford Hospital
+GLSS-HF-3162	GLSS	Male	52	1:DECEASED	17	Henry Ford Hospital
+GLSS-HF-6504	GLSS	Male	64	1:DECEASED	26	Henry Ford Hospital
+GLSS-HF-6658	GLSS	Male	60	1:DECEASED	17	Henry Ford Hospital
+GLSS-HF-B92C	GLSS	Male	56	1:DECEASED	37	Henry Ford Hospital
+GLSS-HF-B972	GLSS	Male	49	1:DECEASED	21	Henry Ford Hospital
+GLSS-HF-BCDE	GLSS	Male	43	1:DECEASED	38	Henry Ford Hospital
+GLSS-HF-CB66	GLSS	Female	44	1:DECEASED	175	Henry Ford Hospital
+GLSS-HF-DE05	GLSS	Female	56	1:DECEASED	70	Henry Ford Hospital
+GLSS-HF-DF35	GLSS	Male	64	1:DECEASED	13	Henry Ford Hospital
+GLSS-HF-EE74	GLSS	Male	69	1:DECEASED	21	Henry Ford Hospital
+GLSS-HF-EE77	GLSS	Female	60	1:DECEASED	56	Henry Ford Hospital
+GLSS-HK-0001	GLSS	Male	62	1:DECEASED	25	Chinese University of Hong Kong
+GLSS-HK-0002	GLSS	Female	37	1:DECEASED	37	Chinese University of Hong Kong
+GLSS-HK-0003	GLSS	Female	67	1:DECEASED	25	Chinese University of Hong Kong
+GLSS-HK-0004	GLSS	Male	24	1:DECEASED	40	Chinese University of Hong Kong
+GLSS-HK-0005	GLSS	Female	46	1:DECEASED	64	Chinese University of Hong Kong
+GLSS-JX-0006	GLSS	Female	33	1:DECEASED	88	Jackson Laboratory
+GLSS-LU-0B10	GLSS	Male	67	1:DECEASED	29	University of Leeds (UK)
+GLSS-LU-0B12	GLSS	Male	47	1:DECEASED	19	University of Leeds (UK)
+GLSS-LU-0B13	GLSS	Female	45	1:DECEASED	18	University of Leeds (UK)
+GLSS-LU-00A1	GLSS	Female	31	1:DECEASED	60	University of Leeds (UK)
+GLSS-LU-00B9	GLSS	Male	40	1:DECEASED	NA	University of Leeds (UK)
+GLSS-LU-00C1	GLSS	Female	36	1:DECEASED	43	University of Leeds (UK)
+GLSS-LU-00C2	GLSS	Female	63	1:DECEASED	49	University of Leeds (UK)
+GLSS-LU-00C4	GLSS	Male	53	1:DECEASED	32	University of Leeds (UK)
+GLSS-LU-00C7	GLSS	Male	55	1:DECEASED	24	University of Leeds (UK)
+GLSS-LX-0083	GLSS	Male	51	1:DECEASED	10	
+GLSS-LX-0267	GLSS	Male	40	0:LIVING	54	
+GLSS-LX-0304	GLSS	Female	50	1:DECEASED	24	
+GLSS-LX-0357	GLSS	Male	44	1:DECEASED	123	
+GLSS-LX-0561	GLSS	Male	54	1:DECEASED	31	
+GLSS-MD-0001	GLSS	Female	45	1:DECEASED	257	MD Anderson Cancer Center
+GLSS-MD-0003	GLSS	Male	46	0:LIVING	110	MD Anderson Cancer Center
+GLSS-MD-0004	GLSS	Female	53	1:DECEASED	62	MD Anderson Cancer Center
+GLSS-MD-0005	GLSS	Female	40	0:LIVING	203	MD Anderson Cancer Center
+GLSS-MD-0006	GLSS	Female	52	1:DECEASED	93	MD Anderson Cancer Center
+GLSS-MD-0007	GLSS	Female	33	1:DECEASED	157	MD Anderson Cancer Center
+GLSS-MD-0008	GLSS	Male	20	0:LIVING	183	MD Anderson Cancer Center
+GLSS-MD-0009	GLSS	Male	26	1:DECEASED	80	MD Anderson Cancer Center
+GLSS-MD-0010	GLSS	Male	41	0:LIVING	75	MD Anderson Cancer Center
+GLSS-MD-0011	GLSS	Female	24	0:LIVING	102	MD Anderson Cancer Center
+GLSS-MD-0012	GLSS	Male	33	1:DECEASED	98	MD Anderson Cancer Center
+GLSS-MD-0014	GLSS	Male	49	0:LIVING	74	MD Anderson Cancer Center
+GLSS-MD-0017	GLSS	Male	55	1:DECEASED	38	MD Anderson Cancer Center
+GLSS-MD-0018	GLSS	Female	37	0:LIVING	91	MD Anderson Cancer Center
+GLSS-MD-0020	GLSS	Male	46	1:DECEASED	36	MD Anderson Cancer Center
+GLSS-MD-0021	GLSS	Male	25	0:LIVING	119	MD Anderson Cancer Center
+GLSS-MD-0022	GLSS	Male	68	1:DECEASED	10	MD Anderson Cancer Center
+GLSS-MD-0023	GLSS	Male	65	0:LIVING	12	MD Anderson Cancer Center
+GLSS-MD-0025	GLSS	Male	60	1:DECEASED	19	MD Anderson Cancer Center
+GLSS-MD-0026	GLSS	Male	77	1:DECEASED	44	MD Anderson Cancer Center
+GLSS-MD-0027	GLSS	Male	30	1:DECEASED	80	MD Anderson Cancer Center
+GLSS-MD-0030	GLSS	Male	21	1:DECEASED	138	MD Anderson Cancer Center
+GLSS-MD-0031	GLSS	Male	49	0:LIVING	6	MD Anderson Cancer Center
+GLSS-MD-0032	GLSS	Male	40	1:DECEASED	27	MD Anderson Cancer Center
+GLSS-MD-0035	GLSS	Male	44	1:DECEASED	22	MD Anderson Cancer Center
+GLSS-MD-0036	GLSS	Male	53	1:DECEASED	21	MD Anderson Cancer Center
+GLSS-MD-0038	GLSS	Male	41	0:LIVING	53	MD Anderson Cancer Center
+GLSS-MD-0041	GLSS	Female	45	0:LIVING	122	MD Anderson Cancer Center
+GLSS-MD-0042	GLSS	Male	72	1:DECEASED	11	MD Anderson Cancer Center
+GLSS-MD-0043	GLSS	Female	31	1:DECEASED	135	MD Anderson Cancer Center
+GLSS-MD-0044	GLSS	Male	56	0:LIVING	124	MD Anderson Cancer Center
+GLSS-MD-0045	GLSS	Male	52	0:LIVING	30	MD Anderson Cancer Center
+GLSS-MD-0046	GLSS	Male	59	1:DECEASED	36	MD Anderson Cancer Center
+GLSS-MD-0047	GLSS	Female	33	0:LIVING	175	MD Anderson Cancer Center
+GLSS-MD-0048	GLSS	Male	48	0:LIVING	133	MD Anderson Cancer Center
+GLSS-MD-0049	GLSS	Male	51	0:LIVING	97	MD Anderson Cancer Center
+GLSS-MD-0082	GLSS	Male	24	1:DECEASED	83	MD Anderson Cancer Center
+GLSS-MD-0086	GLSS	Male	34	1:DECEASED	54	MD Anderson Cancer Center
+GLSS-MD-0088	GLSS	Male	30	0:LIVING	109	MD Anderson Cancer Center
+GLSS-MD-0089	GLSS	Male	38	0:LIVING	163	MD Anderson Cancer Center
+GLSS-MD-0090	GLSS	Male	33	0:LIVING	122	MD Anderson Cancer Center
+GLSS-MD-0091	GLSS	Female	48	1:DECEASED	84	MD Anderson Cancer Center
+GLSS-MD-0092	GLSS	Female	29	0:LIVING	101	MD Anderson Cancer Center
+GLSS-MD-0093	GLSS	Male	30	1:DECEASED	82	MD Anderson Cancer Center
+GLSS-MD-0094	GLSS	Female	32	0:LIVING	72	MD Anderson Cancer Center
+GLSS-MD-0097	GLSS	Male	38	1:DECEASED	43	MD Anderson Cancer Center
+GLSS-MD-0112	GLSS	Female	42	0:LIVING	114	MD Anderson Cancer Center
+GLSS-MD-0113	GLSS	Female	41	0:LIVING	161	MD Anderson Cancer Center
+GLSS-MD-LP01	GLSS	Male	30	1:DECEASED	68	MD Anderson Cancer Center
+GLSS-MD-LP02	GLSS	Female	28	1:DECEASED	41	MD Anderson Cancer Center
+GLSS-MD-LP04	GLSS	Female	45	0:LIVING	39	MD Anderson Cancer Center
+GLSS-MD-LP10	GLSS	Male	49	0:LIVING	10	MD Anderson Cancer Center
+GLSS-MG-0001	GLSS	Female	55	1:DECEASED	51	Massachusetts General Hospital
+GLSS-MG-0002	GLSS	Male	56	1:DECEASED	15	Massachusetts General Hospital
+GLSS-MG-0003	GLSS	Male	69	1:DECEASED	13	Massachusetts General Hospital
+GLSS-MG-0005	GLSS	Male	68	1:DECEASED	21	Massachusetts General Hospital
+GLSS-MG-0006	GLSS	Male	63	1:DECEASED	18	Massachusetts General Hospital
+GLSS-MG-0007	GLSS	Male	45	1:DECEASED	24	Massachusetts General Hospital
+GLSS-MG-0009	GLSS	Female	70	1:DECEASED	14	Massachusetts General Hospital
+GLSS-MG-0010	GLSS	Male	68	1:DECEASED	8	Massachusetts General Hospital
+GLSS-MG-0011	GLSS	Male	61	1:DECEASED	11	Massachusetts General Hospital
+GLSS-MG-0015	GLSS	Female	62	1:DECEASED	24	Massachusetts General Hospital
+GLSS-NS-0001	GLSS	Female	37	0:LIVING	17	Northern Sydney Cancer Centre
+GLSS-SF-0001	GLSS	Male	28	1:DECEASED	58	University of California San Francisco
+GLSS-SF-0002	GLSS	Female	26	0:LIVING	79	University of California San Francisco
+GLSS-SF-0003	GLSS	Female	28	1:DECEASED	85	University of California San Francisco
+GLSS-SF-0004	GLSS	Male	22	1:DECEASED	61	University of California San Francisco
+GLSS-SF-0005	GLSS	Female	39	1:DECEASED	74	University of California San Francisco
+GLSS-SF-0006	GLSS	Male	22	1:DECEASED	87	University of California San Francisco
+GLSS-SF-0007	GLSS	Male	30	1:DECEASED	148	University of California San Francisco
+GLSS-SF-0008	GLSS	Male	44	1:DECEASED	103	University of California San Francisco
+GLSS-SF-0009	GLSS	Male	28	1:DECEASED	45	University of California San Francisco
+GLSS-SF-0010	GLSS	Female	41	1:DECEASED	44	University of California San Francisco
+GLSS-SF-0011	GLSS	Female	30	1:DECEASED	186	University of California San Francisco
+GLSS-SF-0012	GLSS	Male	35	0:LIVING	82	University of California San Francisco
+GLSS-SF-0013	GLSS	Male	24	1:DECEASED	106	University of California San Francisco
+GLSS-SF-0014	GLSS	Male	25	0:LIVING	149	University of California San Francisco
+GLSS-SF-0015	GLSS	Female	38	0:LIVING	143	University of California San Francisco
+GLSS-SF-0016	GLSS	Female	35	1:DECEASED	38	University of California San Francisco
+GLSS-SF-0017	GLSS	Male	27	0:LIVING	59	University of California San Francisco
+GLSS-SF-0018	GLSS	Male	49	0:LIVING	106	University of California San Francisco
+GLSS-SF-0020	GLSS	Male	27	0:LIVING	148	University of California San Francisco
+GLSS-SF-0021	GLSS	Male	27	1:DECEASED	35	University of California San Francisco
+GLSS-SF-0022	GLSS	Male	22	1:DECEASED	70	University of California San Francisco
+GLSS-SF-0024	GLSS	Male	34	1:DECEASED	109	University of California San Francisco
+GLSS-SF-0025	GLSS	Male	39	0:LIVING	42	University of California San Francisco
+GLSS-SF-0026	GLSS	Female	36	0:LIVING	47	University of California San Francisco
+GLSS-SF-0027	GLSS	Male	56	0:LIVING	54	University of California San Francisco
+GLSS-SF-0028	GLSS	Male	30	0:LIVING	137	University of California San Francisco
+GLSS-SF-0029	GLSS	Male	52	1:DECEASED	109	University of California San Francisco
+GLSS-SF-0032	GLSS	Male	46	0:LIVING	15	University of California San Francisco
+GLSS-SF-0037	GLSS	Male	31	0:LIVING	105	University of California San Francisco
+GLSS-SF-0038	GLSS	Female	21	0:LIVING	25	University of California San Francisco
+GLSS-SF-0039	GLSS	Male	28	0:LIVING	101	University of California San Francisco
+GLSS-SF-0058	GLSS	Female	47	1:DECEASED	59	University of California San Francisco
+GLSS-SF-0060	GLSS	Male	21	0:LIVING	61	University of California San Francisco
+GLSS-SF-0065	GLSS	Male	38	0:LIVING	117	University of California San Francisco
+GLSS-SF-0069	GLSS	Male	34	0:LIVING	154	University of California San Francisco
+GLSS-SF-0131	GLSS	Male	38	1:DECEASED	14	University of California San Francisco
+GLSS-SF-0157	GLSS	Female	27	1:DECEASED	51	University of California San Francisco
+GLSS-SF-0159	GLSS	Male	23	0:LIVING	83	University of California San Francisco
+GLSS-SF-0161	GLSS	Male	35	0:LIVING	114	University of California San Francisco
+GLSS-SF-0163	GLSS	Male	28	0:LIVING	140	University of California San Francisco
+GLSS-SF-0170	GLSS	Female	62	1:DECEASED	55	University of California San Francisco
+GLSS-SF-0334	GLSS	Male	33	0:LIVING	188	University of California San Francisco
+GLSS-SF-0338	GLSS	Male	40	0:LIVING	34	University of California San Francisco
+GLSS-SF-0339	GLSS	Male	29	0:LIVING	68	University of California San Francisco
+GLSS-SM-R056	GLSS	Female	42	1:DECEASED	61	Samsung Medical Center
+GLSS-SM-R057	GLSS	Male	53	1:DECEASED	58	Samsung Medical Center
+GLSS-SM-R058	GLSS	Female	67	1:DECEASED	53	Samsung Medical Center
+GLSS-SM-R060	GLSS	Male	31	1:DECEASED	39	Samsung Medical Center
+GLSS-SM-R061	GLSS	Male	41	1:DECEASED	35	Samsung Medical Center
+GLSS-SM-R062	GLSS	Male	24	1:DECEASED	34	Samsung Medical Center
+GLSS-SM-R063	GLSS	Female	34	1:DECEASED	33	Samsung Medical Center
+GLSS-SM-R064	GLSS	Female	56	1:DECEASED	42	Samsung Medical Center
+GLSS-SM-R065	GLSS	Female	38	1:DECEASED	26	Samsung Medical Center
+GLSS-SM-R066	GLSS	Male	51	1:DECEASED	23	Samsung Medical Center
+GLSS-SM-R067	GLSS	Male	51	1:DECEASED	22	Samsung Medical Center
+GLSS-SM-R068	GLSS	Male	74	1:DECEASED	19	Samsung Medical Center
+GLSS-SM-R069	GLSS	Female	46	1:DECEASED	18	Samsung Medical Center
+GLSS-SM-R070	GLSS	Female	72	1:DECEASED	15	Samsung Medical Center
+GLSS-SM-R071	GLSS	Male	65	1:DECEASED	16	Samsung Medical Center
+GLSS-SM-R072	GLSS	Male	75	1:DECEASED	14	Samsung Medical Center
+GLSS-SM-R075	GLSS	Male	49	1:DECEASED	7	Samsung Medical Center
+GLSS-SM-R076	GLSS	Male	38	1:DECEASED	58	Samsung Medical Center
+GLSS-SM-R078	GLSS	Male	36	1:DECEASED	81	Samsung Medical Center
+GLSS-SM-R080	GLSS	Male	60	1:DECEASED	33	Samsung Medical Center
+GLSS-SM-R081	GLSS	Female	58	1:DECEASED	17	Samsung Medical Center
+GLSS-SM-R082	GLSS	Male	49	0:LIVING	11	Samsung Medical Center
+GLSS-SM-R083	GLSS	Male	50	1:DECEASED	34	Samsung Medical Center
+GLSS-SM-R085	GLSS	Male	49	1:DECEASED	32	Samsung Medical Center
+GLSS-SM-R087	GLSS	Female	37	0:LIVING	27	Samsung Medical Center
+GLSS-SM-R088	GLSS	Female	30	1:DECEASED	25	Samsung Medical Center
+GLSS-SM-R091	GLSS	Male	45	1:DECEASED	12	Samsung Medical Center
+GLSS-SM-R093	GLSS	Male	73	0:LIVING	8	Samsung Medical Center
+GLSS-SM-R095	GLSS	Female	61	1:DECEASED	20	Samsung Medical Center
+GLSS-SM-R096	GLSS	Male	47	1:DECEASED	30	Samsung Medical Center
+GLSS-SM-R097	GLSS	Female	61	1:DECEASED	24	Samsung Medical Center
+GLSS-SM-R099	GLSS	Female	57	1:DECEASED	22	Samsung Medical Center
+GLSS-SM-R100	GLSS	Male	45	1:DECEASED	18	Samsung Medical Center
+GLSS-SM-R101	GLSS	Female	63	1:DECEASED	14	Samsung Medical Center
+GLSS-SM-R102	GLSS	Male	69	1:DECEASED	16	Samsung Medical Center
+GLSS-SM-R103	GLSS	Female	55	1:DECEASED	19	Samsung Medical Center
+GLSS-SM-R104	GLSS	Male	54	0:LIVING	34	Samsung Medical Center
+GLSS-SM-R106	GLSS	Male	51	1:DECEASED	13	Samsung Medical Center
+GLSS-SM-R107	GLSS	Female	52	1:DECEASED	21	Samsung Medical Center
+GLSS-SM-R108	GLSS	Female	56	1:DECEASED	11	Samsung Medical Center
+GLSS-SM-R109	GLSS	Female	51	1:DECEASED	19	Samsung Medical Center
+GLSS-SM-R110	GLSS	Male	49	1:DECEASED	11	Samsung Medical Center
+GLSS-SM-R111	GLSS	Male	31	1:DECEASED	14	Samsung Medical Center
+GLSS-SM-R112	GLSS	Female	70	1:DECEASED	10	Samsung Medical Center
+GLSS-SN-0001	GLSS	Male	52	1:DECEASED	21	Seoul National University Hospital
+GLSS-SN-0002	GLSS	Female	43	1:DECEASED	15	Seoul National University Hospital
+GLSS-SN-0003	GLSS	Female	67	1:DECEASED	20	Seoul National University Hospital
+GLSS-SN-0004	GLSS	Female	44	1:DECEASED	58	Seoul National University Hospital
+GLSS-SN-0006	GLSS	Female	54	1:DECEASED	47	Seoul National University Hospital
+GLSS-SN-0007	GLSS	Female	50	1:DECEASED	18	Seoul National University Hospital
+GLSS-SN-0008	GLSS	Male	51	0:LIVING	50	Seoul National University Hospital
+GLSS-SN-0009	GLSS	Male	55	1:DECEASED	21	Seoul National University Hospital
+GLSS-SN-0010	GLSS	Male	74	1:DECEASED	19	Seoul National University Hospital
+GLSS-SN-0013	GLSS	Male	60	1:DECEASED	21	Seoul National University Hospital
+GLSS-SN-0015	GLSS	Male	64	1:DECEASED	19	Seoul National University Hospital
+GLSS-SN-0016	GLSS	Male	57	1:DECEASED	21	Seoul National University Hospital
+GLSS-SN-0017	GLSS	Male	25	0:LIVING	56	Seoul National University Hospital
+GLSS-SU-0001	GLSS	Male	28	1:DECEASED	61	Japan (4 hospitals)
+GLSS-SU-0002	GLSS	Male	27	0:LIVING	94	Japan (4 hospitals)
+GLSS-SU-0003	GLSS	Male	36	0:LIVING	98	Japan (4 hospitals)
+GLSS-SU-0004	GLSS	Male	51	0:LIVING	86	Japan (4 hospitals)
+GLSS-SU-0005	GLSS	Male	19	1:DECEASED	52	Japan (4 hospitals)
+GLSS-SU-0007	GLSS	Male	44	0:LIVING	108	Japan (4 hospitals)
+GLSS-SU-0202	GLSS	Male	33	0:LIVING	105	Japan (4 hospitals)
+GLSS-SU-0239	GLSS	Male	40	0:LIVING	57	Japan (4 hospitals)
+GLSS-SU-0270	GLSS	Female	48	1:DECEASED	46	Japan (4 hospitals)
+TCGA-06-0125	TCGA	Female	63	1:DECEASED	48	Henry Ford Hospital
+TCGA-06-0152	TCGA	Male	68	1:DECEASED	12	Henry Ford Hospital
+TCGA-06-0171	TCGA	Male	65	1:DECEASED	13	Henry Ford Hospital
+TCGA-06-0190	TCGA	Male	62	1:DECEASED	11	Henry Ford Hospital
+TCGA-06-0210	TCGA	Female	72	1:DECEASED	8	Henry Ford Hospital
+TCGA-06-0211	TCGA	Male	47	1:DECEASED	12	Henry Ford Hospital
+TCGA-06-0221	TCGA	Male	31	1:DECEASED	20	Henry Ford Hospital
+TCGA-14-0736	TCGA	Male	49	1:DECEASED	15	Emory University
+TCGA-14-1034	TCGA	Female	60	1:DECEASED	16	Emory University
+TCGA-14-1402	TCGA	Female	58	1:DECEASED	32	Emory University
+TCGA-19-0957	TCGA	Female	48	1:DECEASED	22	Case Western  Reserve University
+TCGA-19-1389	TCGA	Male	51	1:DECEASED	5	Case Western  Reserve University
+TCGA-19-4065	TCGA	Male	36	1:DECEASED	15	Case Western  Reserve University
+TCGA-DH-A669	TCGA	Male	70	1:DECEASED	31	University of Florida
+TCGA-DU-5870	TCGA	Female	35	1:DECEASED	293	Henry Ford Hospital
+TCGA-DU-5872	TCGA	Female	43	0:LIVING	121	Henry Ford Hospital
+TCGA-DU-6397	TCGA	Male	45	1:DECEASED	46	Henry Ford Hospital
+TCGA-DU-6404	TCGA	Female	24	1:DECEASED	134	Henry Ford Hospital
+TCGA-DU-6407	TCGA	Female	35	1:DECEASED	94	Henry Ford Hospital
+TCGA-DU-7304	TCGA	Male	43	1:DECEASED	23	Henry Ford Hospital
+TCGA-FG-5963	TCGA	Male	23	1:DECEASED	27	Case Western  Reserve University
+TCGA-FG-5965	TCGA	Female	39	1:DECEASED	37	Case Western  Reserve University
+TCGA-FG-A4MT	TCGA	Female	27	1:DECEASED	109	Case Western  Reserve University
+TCGA-TM-A7CF	TCGA	Female	41	0:LIVING	61	University of South Wales
+TCGA-TQ-A7RK	TCGA	Male	29	0:LIVING	40	University of San Paulo
+TCGA-TQ-A7RV	TCGA	Male	27	0:LIVING	59	University of San Paulo
+TCGA-TQ-A8XE	TCGA	Female	42	1:DECEASED	31	University of San Paulo

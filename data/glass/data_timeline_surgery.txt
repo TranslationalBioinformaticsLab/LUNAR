@@ -1,0 +1,672 @@
+PATIENT_ID	START_DATE	STOP_DATE	EVENT_TYPE	SURGERY_TYPE	SURGERY_INDICATION	SURGERY_EXTENT_OF_RESECTION	SURGERY_LATERALITY	SURGERY_LOCATION	SAMPLE_ID
+GLSS-19-0266	0		Surgery	Craniotomy	NA	Total	Right	Occipital lobe	GLSS-19-0266-TP
+GLSS-19-0266	548		Surgery	Craniotomy	NA	NA	NA	NA	GLSS-19-0266-R1
+GLSS-19-0267	0		Surgery	Craniotomy	NA	Subtotal	Left	Temporal lobe	GLSS-19-0267-TP
+GLSS-19-0267	304		Surgery	Craniotomy	NA	Total	NA	NA	GLSS-19-0267-R1
+GLSS-19-0268	0		Surgery	Craniotomy	NA	Subtotal	Left	Parietal lobe	GLSS-19-0268-TP
+GLSS-19-0268	304		Surgery	Craniotomy	NA	Total	NA	NA	GLSS-19-0268-R1
+GLSS-19-0269	0		Surgery	Craniotomy	NA	Total	Right	Parietal lobe	GLSS-19-0269-TP
+GLSS-19-0269	304		Surgery	Craniotomy	NA	Subtotal	NA	NA	GLSS-19-0269-R1
+GLSS-19-0271	0		Surgery	Craniotomy	NA	Total	Right	Parietal lobe	GLSS-19-0271-TP
+GLSS-19-0271	365		Surgery	Craniotomy	NA	Subtotal	NA	NA	GLSS-19-0271-R1
+GLSS-19-0272	0		Surgery	Craniotomy	NA	Total	Right	Temporal lobe	GLSS-19-0272-TP
+GLSS-19-0272	548		Surgery	Craniotomy	NA	Total	NA	NA	GLSS-19-0272-R1
+GLSS-19-0273	0		Surgery	Craniotomy	NA	Total	Right	Temporal lobe	GLSS-19-0273-TP
+GLSS-19-0273	304		Surgery	Craniotomy	NA	Total	NA	NA	GLSS-19-0273-R1
+GLSS-19-0274	0		Surgery	Craniotomy	NA	Total	Right	Occipital lobe	GLSS-19-0274-TP
+GLSS-19-0274	274		Surgery	Craniotomy	NA	Total	NA	NA	GLSS-19-0274-R1
+GLSS-19-0275	0		Surgery	Craniotomy	NA	Total	Left	Frontal lobe	GLSS-19-0275-TP
+GLSS-19-0275	274		Surgery	Craniotomy	NA	Subtotal	NA	NA	GLSS-19-0275-R1
+GLSS-19-0278	0		Surgery	Craniotomy	NA	Total	Left	Frontal lobe	GLSS-19-0278-TP
+GLSS-19-0278	304		Surgery	Craniotomy	NA	Subtotal	NA	NA	GLSS-19-0278-R1
+GLSS-19-0279	0		Surgery	Craniotomy	NA	Total	Right	Frontal lobe	GLSS-19-0279-TP
+GLSS-19-0279	274		Surgery	Craniotomy	NA	Subtotal	NA	NA	GLSS-19-0279-R1
+GLSS-19-0279	274		Surgery	Craniotomy	NA	Subtotal	NA	NA	GLSS-19-0279-R2
+GLSS-19-0280	0		Surgery	Craniotomy	NA	Subtotal	Right	Frontal lobe	GLSS-19-0280-TP
+GLSS-19-0280	152		Surgery	Craniotomy	NA	Total	NA	NA	GLSS-19-0280-R1
+GLSS-AT-00P1	0		Surgery	NA	NA	NA	NA	NA	GLSS-AT-00P1-TP
+GLSS-AT-00P1	852		Surgery	NA	NA	NA	NA	NA	GLSS-AT-00P1-R1
+GLSS-AT-00P2	0		Surgery	NA	NA	NA	NA	NA	GLSS-AT-00P2-TP
+GLSS-AT-00P2	335		Surgery	NA	NA	NA	NA	NA	GLSS-AT-00P2-R1
+GLSS-AT-00P3	0		Surgery	NA	NA	NA	NA	NA	GLSS-AT-00P3-TP
+GLSS-AT-00P3	487		Surgery	NA	NA	NA	NA	NA	GLSS-AT-00P3-R1
+GLSS-AT-00P4	0		Surgery	NA	NA	NA	NA	NA	GLSS-AT-00P4-TP
+GLSS-AT-00P4	243		Surgery	NA	NA	NA	NA	NA	GLSS-AT-00P4-R1
+GLSS-AT-00P5	0		Surgery	NA	NA	NA	NA	NA	GLSS-AT-00P5-TP
+GLSS-AT-00P5	426		Surgery	NA	NA	NA	NA	NA	GLSS-AT-00P5-R1
+GLSS-AT-00P6	0		Surgery	NA	NA	NA	NA	NA	GLSS-AT-00P6-TP
+GLSS-AT-00P6	304		Surgery	NA	NA	NA	NA	NA	GLSS-AT-00P6-R1
+GLSS-AT-00P7	0		Surgery	NA	NA	NA	NA	NA	GLSS-AT-00P7-TP
+GLSS-AT-00P7	304		Surgery	NA	NA	NA	NA	NA	GLSS-AT-00P7-R1
+GLSS-AT-GP01	0		Surgery	NA	NA	NA	NA	NA	GLSS-AT-GP01-TP
+GLSS-AT-GP01	122		Surgery	NA	NA	NA	NA	NA	GLSS-AT-GP01-R1
+GLSS-CU-P003	0		Surgery	Craniotomy	NA	Total	Left	Frontal lobe	GLSS-CU-P003-TP
+GLSS-CU-P003	152		Surgery	Craniotomy	NA	Total	Left	Frontal lobe	GLSS-CU-P003-R1
+GLSS-CU-P013	0		Surgery	Craniotomy	NA	Subtotal	Right	Frontoparietal	GLSS-CU-P013-R1
+GLSS-CU-P013	456		Surgery	Craniotomy	NA	Subtotal	Right	Frontoparietal	GLSS-CU-P013-R2
+GLSS-CU-P013	639		Surgery	Craniotomy	NA	Subtotal	Right	Frontoparietal	GLSS-CU-P013-R3
+GLSS-CU-P020	0		Surgery	Craniotomy	NA	Total	Left	Temporal lobe	GLSS-CU-P020-R1
+GLSS-CU-P020	548		Surgery	Craniotomy	NA	Total	Left	Temporal lobe	GLSS-CU-P020-R2
+GLSS-CU-P020	700		Surgery	Craniotomy	NA	Total	Left	Temporal lobe	GLSS-CU-P020-R3
+GLSS-CU-P021	0		Surgery	Craniotomy	NA	Subtotal	Right	Parietal lobe	GLSS-CU-P021-TP
+GLSS-CU-P021	152		Surgery	Craniotomy	NA	Subtotal	Right	Parietal lobe	GLSS-CU-P021-R2
+GLSS-CU-P024	0		Surgery	Craniotomy	NA	Subtotal	Left	Frontal lobe	GLSS-CU-P024-TP
+GLSS-CU-P024	700		Surgery	Craniotomy	NA	Subtotal	Left	Frontal lobe	GLSS-CU-P024-R1
+GLSS-CU-P024	973		Surgery	Craniotomy	NA	Subtotal	Left	Frontal lobe	GLSS-CU-P024-R2
+GLSS-CU-P046	0		Surgery	Craniotomy	NA	Subtotal	Right	Parietal lobe	GLSS-CU-P046-TP
+GLSS-CU-P046	213		Surgery	Craniotomy	NA	Subtotal	Right	Parietal lobe	GLSS-CU-P046-R1
+GLSS-CU-P053	0		Surgery	Craniotomy	NA	Total	Right	Frontal lobe	GLSS-CU-P053-TP
+GLSS-CU-P053	517		Surgery	Craniotomy	NA	Total	Right	Frontal lobe	GLSS-CU-P053-R1
+GLSS-CU-P053	700		Surgery	Craniotomy	NA	Total	Right	Frontal lobe	GLSS-CU-P053-R2
+GLSS-CU-P055	0		Surgery	Craniotomy	NA	Subtotal	Left	Frontal lobe	GLSS-CU-P055-TP
+GLSS-CU-P055	122		Surgery	Craniotomy	NA	Subtotal	Left	Frontal lobe	GLSS-CU-P055-R1
+GLSS-CU-P055	578		Surgery	Craniotomy	NA	Subtotal	Left	Frontal lobe	GLSS-CU-P055-R2
+GLSS-CU-P056	0		Surgery	Craniotomy	NA	Subtotal	Right	Parietal lobe	GLSS-CU-P056-R1
+GLSS-CU-P056	304		Surgery	Craniotomy	NA	Subtotal	Right	Parietal lobe	GLSS-CU-P056-R2
+GLSS-CU-P069	0		Surgery	Craniotomy	NA	Subtotal	Right	Frontal lobe	GLSS-CU-P069-TP
+GLSS-CU-P069	243		Surgery	Craniotomy	NA	Subtotal	Right	Frontal lobe	GLSS-CU-P069-R1
+GLSS-CU-P071	0		Surgery	Craniotomy	NA	Subtotal	Left	Frontal lobe	GLSS-CU-P071-TP
+GLSS-CU-P071	183		Surgery	Craniotomy	NA	Subtotal	Left	Frontal lobe	GLSS-CU-P071-R1
+GLSS-CU-P100	0		Surgery	Craniotomy	NA	Subtotal	Left	Frontal lobe	GLSS-CU-P100-R1
+GLSS-CU-P100	335		Surgery	Craniotomy	NA	Subtotal	Left	Frontal lobe	GLSS-CU-P100-R2
+GLSS-CU-P101	0		Surgery	Craniotomy	NA	Total	Right	Frontal lobe	GLSS-CU-P101-TP
+GLSS-CU-P101	1308		Surgery	Craniotomy	NA	Total	Right	Frontal lobe	GLSS-CU-P101-R1
+GLSS-CU-P102	0		Surgery	Craniotomy	NA	Subtotal	Right	Temporal lobe	GLSS-CU-P102-TP
+GLSS-CU-P102	578		Surgery	Craniotomy	NA	Subtotal	Right	Temporal lobe	GLSS-CU-P102-R1
+GLSS-CU-P104	0		Surgery	Craniotomy	NA	Total	Left	Frontal lobe	GLSS-CU-P104-R1
+GLSS-CU-P104	1065		Surgery	Craniotomy	NA	NA	Left	Frontal lobe	GLSS-CU-P104-R2
+GLSS-CU-R001	0		Surgery	NA	NA	NA	NA	NA	GLSS-CU-R001-TP
+GLSS-CU-R001	152		Surgery	NA	NA	NA	NA	NA	GLSS-CU-R001-R1
+GLSS-CU-R002	0		Surgery	NA	NA	NA	NA	NA	GLSS-CU-R002-TP
+GLSS-CU-R002	304		Surgery	NA	NA	NA	NA	NA	GLSS-CU-R002-R1
+GLSS-CU-R003	0		Surgery	NA	NA	NA	NA	NA	GLSS-CU-R003-TP
+GLSS-CU-R003	274		Surgery	NA	NA	NA	NA	NA	GLSS-CU-R003-R1
+GLSS-CU-R004	0		Surgery	NA	NA	NA	NA	NA	GLSS-CU-R004-TP
+GLSS-CU-R004	183		Surgery	NA	NA	NA	NA	NA	GLSS-CU-R004-R1
+GLSS-CU-R005	0		Surgery	NA	NA	NA	NA	NA	GLSS-CU-R005-TP
+GLSS-CU-R005	152		Surgery	NA	NA	NA	NA	NA	GLSS-CU-R005-R1
+GLSS-CU-R006	0		Surgery	NA	NA	NA	NA	NA	GLSS-CU-R006-TP
+GLSS-CU-R006	335		Surgery	NA	NA	NA	NA	NA	GLSS-CU-R006-R1
+GLSS-CU-R007	0		Surgery	NA	NA	NA	NA	NA	GLSS-CU-R007-TP
+GLSS-CU-R007	365		Surgery	NA	NA	NA	NA	NA	GLSS-CU-R007-R1
+GLSS-CU-R008	0		Surgery	NA	NA	NA	NA	NA	GLSS-CU-R008-TP
+GLSS-CU-R008	304		Surgery	NA	NA	NA	NA	NA	GLSS-CU-R008-R1
+GLSS-CU-R009	0		Surgery	NA	NA	NA	NA	NA	GLSS-CU-R009-TP
+GLSS-CU-R009	1217		Surgery	NA	NA	NA	NA	NA	GLSS-CU-R009-R1
+GLSS-CU-R010	0		Surgery	NA	NA	NA	NA	NA	GLSS-CU-R010-TP
+GLSS-CU-R010	517		Surgery	NA	NA	NA	NA	NA	GLSS-CU-R010-R1
+GLSS-CU-R011	0		Surgery	NA	NA	NA	NA	NA	GLSS-CU-R011-TP
+GLSS-CU-R011	365		Surgery	NA	NA	NA	NA	NA	GLSS-CU-R011-R1
+GLSS-CU-R012	0		Surgery	NA	NA	NA	NA	NA	GLSS-CU-R012-TP
+GLSS-CU-R012	973		Surgery	NA	NA	NA	NA	NA	GLSS-CU-R012-R1
+GLSS-CU-R013	0		Surgery	NA	NA	NA	NA	NA	GLSS-CU-R013-TP
+GLSS-CU-R013	365		Surgery	NA	NA	NA	NA	NA	GLSS-CU-R013-R1
+GLSS-CU-R014	0		Surgery	NA	NA	NA	NA	NA	GLSS-CU-R014-TP
+GLSS-CU-R014	243		Surgery	NA	NA	NA	NA	NA	GLSS-CU-R014-R1
+GLSS-CU-R015	0		Surgery	NA	NA	NA	NA	NA	GLSS-CU-R015-TP
+GLSS-CU-R015	456		Surgery	NA	NA	NA	NA	NA	GLSS-CU-R015-R1
+GLSS-CU-R016	0		Surgery	NA	NA	NA	NA	NA	GLSS-CU-R016-TP
+GLSS-CU-R016	487		Surgery	NA	NA	NA	NA	NA	GLSS-CU-R016-R1
+GLSS-CU-R017	0		Surgery	NA	NA	NA	NA	NA	GLSS-CU-R017-TP
+GLSS-CU-R017	183		Surgery	NA	NA	NA	NA	NA	GLSS-CU-R017-R1
+GLSS-CU-R018	0		Surgery	NA	NA	NA	NA	NA	GLSS-CU-R018-TP
+GLSS-CU-R018	548		Surgery	NA	NA	NA	NA	NA	GLSS-CU-R018-R1
+GLSS-CU-R019	0		Surgery	NA	NA	NA	NA	NA	GLSS-CU-R019-TP
+GLSS-CU-R019	274		Surgery	NA	NA	NA	NA	NA	GLSS-CU-R019-R1
+GLSS-DF-0002	0		Surgery	Craniotomy	NA	Total	Right	Occipital lobe	GLSS-DF-0002-TP
+GLSS-DF-0002	183		Surgery	Craniotomy	NA	Subtotal	NA	NA	GLSS-DF-0002-R1
+GLSS-DF-0003	0		Surgery	Craniotomy	NA	Total	Left	Temporal lobe	GLSS-DF-0003-TP
+GLSS-DF-0003	243		Surgery	Craniotomy	NA	Total	NA	NA	GLSS-DF-0003-R1
+GLSS-DF-0004	0		Surgery	Craniotomy	NA	Total	Left	Frontal lobe	GLSS-DF-0004-TP
+GLSS-DF-0004	91		Surgery	Craniotomy	NA	Subtotal	NA	NA	GLSS-DF-0004-R1
+GLSS-DF-0006	0		Surgery	Craniotomy	NA	Total	Right	Frontal lobe	GLSS-DF-0006-TP
+GLSS-DF-0006	122		Surgery	Craniotomy	NA	Total	NA	NA	GLSS-DF-0006-R1
+GLSS-DF-0007	0		Surgery	Craniotomy	NA	Subtotal	Left	Occipital lobe	GLSS-DF-0007-TP
+GLSS-DF-0007	274		Surgery	Craniotomy	NA	Total	NA	NA	GLSS-DF-0007-R1
+GLSS-DF-0010	0		Surgery	Craniotomy	NA	Total	Right	Temporal lobe	GLSS-DF-0010-TP
+GLSS-DF-0010	61		Surgery	Craniotomy	NA	Subtotal	NA	NA	GLSS-DF-0010-R1
+GLSS-DF-0012	0		Surgery	Craniotomy	NA	Subtotal	Right	Temporal lobe	GLSS-DF-0012-TP
+GLSS-DF-0012	122		Surgery	Craniotomy	NA	Total	NA	NA	GLSS-DF-0012-R1
+GLSS-DF-0013	0		Surgery	NA	NA	Total	Right	Frontal	GLSS-DF-0013-TP
+GLSS-DF-0013	578		Surgery	NA	NA	Total	NA	NA	GLSS-DF-0013-R1
+GLSS-DF-0014	0		Surgery	NA	NA	Total	Left	Frontal	GLSS-DF-0014-TP
+GLSS-DF-0014	213		Surgery	NA	NA	Total	NA	NA	GLSS-DF-0014-R1
+GLSS-DK-0001	0		Surgery	NA	NA	NA	NA	NA	GLSS-DK-0001-R1
+GLSS-DK-0002	0		Surgery	NA	NA	NA	NA	NA	GLSS-DK-0002-R1
+GLSS-DK-0003	0		Surgery	NA	NA	NA	NA	NA	GLSS-DK-0003-R1
+GLSS-DK-0004	0		Surgery	NA	NA	NA	NA	NA	GLSS-DK-0004-R1
+GLSS-DK-0005	0		Surgery	NA	NA	NA	NA	NA	GLSS-DK-0005-R1
+GLSS-DK-0006	0		Surgery	NA	NA	NA	NA	NA	GLSS-DK-0006-R1
+GLSS-DK-0007	0		Surgery	NA	NA	NA	NA	NA	GLSS-DK-0007-R1
+GLSS-DK-0008	0		Surgery	NA	NA	NA	NA	NA	GLSS-DK-0008-R1
+GLSS-DK-0009	0		Surgery	NA	NA	NA	NA	NA	GLSS-DK-0009-R1
+GLSS-DK-0010	0		Surgery	NA	NA	NA	NA	NA	GLSS-DK-0010-R1
+GLSS-DK-0011	0		Surgery	NA	NA	NA	NA	NA	GLSS-DK-0011-R1
+GLSS-DK-0012	0		Surgery	NA	NA	NA	NA	NA	GLSS-DK-0012-R1
+GLSS-DK-0013	0		Surgery	NA	NA	NA	NA	NA	GLSS-DK-0013-R1
+GLSS-DK-0014	0		Surgery	NA	NA	NA	NA	NA	GLSS-DK-0014-R1
+GLSS-DK-0015	0		Surgery	NA	NA	NA	NA	NA	GLSS-DK-0015-R1
+GLSS-HF-1CCD	274		Surgery	Craniotomy	NA	Total	Right	Parietal lobe	GLSS-HF-1CCD-R1
+GLSS-HF-1CCD	365		Surgery	Craniotomy	NA	Total	Right	Parietal lobe	GLSS-HF-1CCD-R2
+GLSS-HF-1DDC	30		Surgery	Craniotomy	NA	Subtotal	Right	Frontal lobe	GLSS-HF-1DDC-TP
+GLSS-HF-1DDC	183		Surgery	Craniotomy	NA	NA	Right	Frontal lobe	GLSS-HF-1DDC-R1
+GLSS-HF-4B46	0		Surgery	Craniotomy	NA	Subtotal	Left	Frontal lobe	GLSS-HF-4B46-TP
+GLSS-HF-4B46	1156		Surgery	Craniotomy	NA	Subtotal	Left	Frontal lobe	GLSS-HF-4B46-R1
+GLSS-HF-4D9A	30		Surgery	Craniotomy	NA	Total	Left	Frontal lobe	GLSS-HF-4D9A-TP
+GLSS-HF-4D9A	304		Surgery	Craniotomy	NA	Subtotal	Left	Frontal lobe	GLSS-HF-4D9A-R1
+GLSS-HF-4F0A	0		Surgery	Craniotomy	NA	Subtotal	Right	Frontal lobe	GLSS-HF-4F0A-TP
+GLSS-HF-4F0A	3042		Surgery	Craniotomy	NA	Total	Right	Frontal lobe	GLSS-HF-4F0A-R1
+GLSS-HF-4F0A	3772		Surgery	Craniotomy	NA	Subtotal	Right	Frontal lobe	GLSS-HF-4F0A-R2
+GLSS-HF-4FBF	30		Surgery	Craniotomy	NA	Total	Right	Parietal lobe	GLSS-HF-4FBF-R1
+GLSS-HF-4FBF	1278		Surgery	Craniotomy	NA	Total	Right	Parietal lobe	GLSS-HF-4FBF-R2
+GLSS-HF-7CAC	0		Surgery	Craniotomy	NA	Total	Right	Frontal lobe	GLSS-HF-7CAC-TP
+GLSS-HF-7CAC	882		Surgery	Craniotomy	NA	Total	Right	Frontal lobe	GLSS-HF-7CAC-R1
+GLSS-HF-8FCD	0		Surgery	Craniotomy	NA	Subtotal	Left	Temporal lobe	GLSS-HF-8FCD-TP
+GLSS-HF-8FCD	1551		Surgery	Craniotomy	NA	Subtotal	Left	Temporal lobe	GLSS-HF-8FCD-R1
+GLSS-HF-9A7A	0		Surgery	Craniotomy	NA	NA	Left	Occipital lobe	GLSS-HF-9A7A-TP
+GLSS-HF-9A7A	1764		Surgery	Craniotomy	NA	Total	Left	Occipital lobe	GLSS-HF-9A7A-R1
+GLSS-HF-9A7A	2190		Surgery	Craniotomy	NA	NA	Left	Occipital lobe	GLSS-HF-9A7A-R2
+GLSS-HF-50F3	0		Surgery	Craniotomy	NA	Total	Left	Occipital lobe	GLSS-HF-50F3-TP
+GLSS-HF-50F3	700		Surgery	Craniotomy	NA	Biopsy	Left	Occipital lobe	GLSS-HF-50F3-R2
+GLSS-HF-57AE	0		Surgery	Craniotomy	NA	Total	Left	Temporal lobe	GLSS-HF-57AE-TP
+GLSS-HF-57AE	122		Surgery	Craniotomy	NA	NA	Left	Temporal lobe	GLSS-HF-57AE-R1
+GLSS-HF-57AE	304		Surgery	Craniotomy	NA	Total	Left	Temporal lobe	GLSS-HF-57AE-R2
+GLSS-HF-2548	0		Surgery	Craniotomy	NA	Total	Left	Occipital lobe	GLSS-HF-2548-TP
+GLSS-HF-2548	973		Surgery	Craniotomy	NA	Total	Left	Occipital lobe	GLSS-HF-2548-R1
+GLSS-HF-2829	0		Surgery	Craniotomy	NA	Subtotal	Left	Parietal lobe	GLSS-HF-2829-TP
+GLSS-HF-2829	335		Surgery	Craniotomy	NA	Subtotal	Left	Parietal lobe	GLSS-HF-2829-R1
+GLSS-HF-2869	3893		Surgery	Craniotomy	NA	Subtotal	Left	Frontal lobe	GLSS-HF-2869-TP
+GLSS-HF-2869	4228		Surgery	Craniotomy	NA	Subtotal	Left	Frontal lobe	GLSS-HF-2869-R3
+GLSS-HF-2919	0		Surgery	Craniotomy	NA	Total	Right	Frontal lobe	GLSS-HF-2919-TP
+GLSS-HF-2919	365		Surgery	Craniotomy	NA	Total	Right	Frontal lobe	GLSS-HF-2919-R1
+GLSS-HF-2934	0		Surgery	Craniotomy	NA	Subtotal	Right	Parietal lobe	GLSS-HF-2934-TP
+GLSS-HF-2934	274		Surgery	Craniotomy	NA	Subtotal	Left	Frontal lobe	GLSS-HF-2934-R1
+GLSS-HF-3016	0		Surgery	Craniotomy	NA	Total	Right	Temporal lobe	GLSS-HF-3016-TP
+GLSS-HF-3016	395		Surgery	Craniotomy	NA	Subtotal	Right	Parietal lobe	GLSS-HF-3016-R1
+GLSS-HF-3050	0		Surgery	Craniotomy	NA	Total	Right	Temporal lobe	GLSS-HF-3050-TP
+GLSS-HF-3050	487		Surgery	Craniotomy	NA	Total	Right	Temporal lobe	GLSS-HF-3050-R1
+GLSS-HF-3081	730		Surgery	Craniotomy	NA	Subtotal	Left	Frontal lobe	GLSS-HF-3081-TP
+GLSS-HF-3081	973		Surgery	Craniotomy	NA	Total	Left	Frontal lobe	GLSS-HF-3081-R2
+GLSS-HF-3118	0		Surgery	Craniotomy	NA	Subtotal	Right	Frontal lobe	GLSS-HF-3118-TP
+GLSS-HF-3118	183		Surgery	Craniotomy	NA	Total	Right	Frontal lobe	GLSS-HF-3118-R1
+GLSS-HF-3162	243		Surgery	Craniotomy	NA	Total	Right	Parietal lobe	GLSS-HF-3162-TP
+GLSS-HF-3162	335		Surgery	Craniotomy	NA	NA	Right	Parietal lobe	GLSS-HF-3162-R1
+GLSS-HF-6504	0		Surgery	Craniotomy	NA	Subtotal	Left	Temporal lobe	GLSS-HF-6504-TP
+GLSS-HF-6504	243		Surgery	Craniotomy	NA	Total	Left	Temporal lobe	GLSS-HF-6504-R1
+GLSS-HF-6658	0		Surgery	Craniotomy	NA	Total	Left	Parietal lobe	GLSS-HF-6658-TP
+GLSS-HF-6658	152		Surgery	Craniotomy	NA	NA	Left	Parietal lobe	GLSS-HF-6658-R1
+GLSS-HF-B92C	0		Surgery	Craniotomy	NA	Total	Left	Temporal lobe	GLSS-HF-B92C-TP
+GLSS-HF-B92C	973		Surgery	Craniotomy	NA	Subtotal	Left	Temporal lobe	GLSS-HF-B92C-R2
+GLSS-HF-B972	0		Surgery	Craniotomy	NA	Total	Left	Temporal lobe	GLSS-HF-B972-TP
+GLSS-HF-B972	213		Surgery	Craniotomy	NA	Total	Left	Temporal lobe	GLSS-HF-B972-R1
+GLSS-HF-BCDE	0		Surgery	Craniotomy	NA	Subtotal	Right	Occipitial lobe	GLSS-HF-BCDE-TP
+GLSS-HF-BCDE	730		Surgery	Craniotomy	NA	Subtotal	Right	Occipital lobe	GLSS-HF-BCDE-R3
+GLSS-HF-CB66	0		Surgery	Craniotomy	NA	Subtotal	Right	Frontal lobe	GLSS-HF-CB66-TP
+GLSS-HF-CB66	2373		Surgery	Craniotomy	NA	Total	Right	Frontal lobe	GLSS-HF-CB66-R1
+GLSS-HF-CB66	4076		Surgery	Craniotomy	NA	Total	Right	Frontal lobe	GLSS-HF-CB66-R2
+GLSS-HF-DE05	0		Surgery	Craniotomy	NA	Total	Right	Occipital lobe	GLSS-HF-DE05-TP
+GLSS-HF-DE05	1643		Surgery	Craniotomy	NA	Total	Right	Occipital lobe	GLSS-HF-DE05-R1
+GLSS-HF-DF35	0		Surgery	Craniotomy	NA	Subtotal	Right	Frontal lobe	GLSS-HF-DF35-TP
+GLSS-HF-DF35	304		Surgery	Craniotomy	NA	NA	Right	Frontal lobe	GLSS-HF-DF35-R1
+GLSS-HF-EE74	0		Surgery	Craniotomy	NA	Subtotal	Left	Frontal lobe	GLSS-HF-EE74-TP
+GLSS-HF-EE74	395		Surgery	Craniotomy	NA	Total	Left	Frontal lobe	GLSS-HF-EE74-R1
+GLSS-HF-EE77	1065		Surgery	Craniotomy	NA	Subtotal	Right	Parietal lobe	GLSS-HF-EE77-R1
+GLSS-HF-EE77	1156		Surgery	Craniotomy	NA	Total	Right	Parietal lobe	GLSS-HF-EE77-R2
+GLSS-HF-EE77	1490		Surgery	Craniotomy	NA	NA	Right	Parietal lobe	GLSS-HF-EE77-R3
+GLSS-HK-0001	0		Surgery	NA	NA	NA	NA	Cerebellum	GLSS-HK-0001-TP
+GLSS-HK-0001	304		Surgery	NA	NA	NA	Right	Cerebellum	GLSS-HK-0001-R1
+GLSS-HK-0002	0		Surgery	NA	NA	NA	Right	Temporal lobe	GLSS-HK-0002-TP
+GLSS-HK-0002	791		Surgery	NA	NA	NA	NA	Temporal lobe	GLSS-HK-0002-R1
+GLSS-HK-0003	0		Surgery	NA	NA	NA	Right	Frontal lobe	GLSS-HK-0003-TP
+GLSS-HK-0003	395		Surgery	NA	NA	NA	Right	Frontal lobe	GLSS-HK-0003-R1
+GLSS-HK-0004	0		Surgery	NA	NA	NA	Right	Temporal lobe	GLSS-HK-0004-TP
+GLSS-HK-0004	1125		Surgery	NA	NA	NA	Right	Temporal lobe	GLSS-HK-0004-R1
+GLSS-HK-0005	0		Surgery	NA	NA	NA	NA	NA	GLSS-HK-0005-TP
+GLSS-HK-0005	760		Surgery	NA	NA	NA	NA	Occipital lobe	GLSS-HK-0005-R1
+GLSS-JX-0006	0		Surgery	NA	NA	Subtotal	NA	Corpus callosum	GLSS-JX-0006-TP
+GLSS-JX-0006	2068		Surgery	Craniotomy	NA	Subtotal	NA	Corpus callosum	GLSS-JX-0006-R1
+GLSS-LU-0B10	0		Surgery	NA	NA	NA	Left	Temporal lobe	GLSS-LU-0B10-TP
+GLSS-LU-0B10	517		Surgery	NA	NA	NA	Left	Temporal lobe	GLSS-LU-0B10-R1
+GLSS-LU-0B12	0		Surgery	NA	NA	NA	Right	Frontal lobe	GLSS-LU-0B12-TP
+GLSS-LU-0B12	487		Surgery	NA	NA	NA	Right	Frontal lobe	GLSS-LU-0B12-R1
+GLSS-LU-0B13	0		Surgery	NA	NA	NA	Right	Temporal lobe	GLSS-LU-0B13-TP
+GLSS-LU-0B13	426		Surgery	NA	NA	NA	Right	Temporal lobe	GLSS-LU-0B13-R1
+GLSS-LU-00A1	0		Surgery	NA	NA	NA	Left	Frontal lobe	GLSS-LU-00A1-TP
+GLSS-LU-00A1	608		Surgery	NA	NA	NA	Left	Frontal lobe	GLSS-LU-00A1-R1
+GLSS-LU-00B9	0		Surgery	NA	NA	NA	Right	Temporal lobe	GLSS-LU-00B9-TP
+GLSS-LU-00B9	61		Surgery	NA	NA	NA	Right	Frontal lobe	GLSS-LU-00B9-R1
+GLSS-LU-00C1	0		Surgery	NA	NA	NA	Right	Parietal lobe	GLSS-LU-00C1-TP
+GLSS-LU-00C1	669		Surgery	NA	NA	NA	Right	Parietal lobe	GLSS-LU-00C1-R1
+GLSS-LU-00C2	0		Surgery	NA	NA	NA	Right	Temporal lobe	GLSS-LU-00C2-TP
+GLSS-LU-00C2	1369		Surgery	NA	NA	NA	Right	Temporal lobe	GLSS-LU-00C2-R1
+GLSS-LU-00C4	0		Surgery	NA	NA	NA	Right	Frontal lobe	GLSS-LU-00C4-TP
+GLSS-LU-00C4	700		Surgery	NA	NA	NA	Right	Frontal lobe	GLSS-LU-00C4-R1
+GLSS-LU-00C7	0		Surgery	NA	NA	NA	Left	Frontal lobe	GLSS-LU-00C7-TP
+GLSS-LU-00C7	517		Surgery	NA	NA	NA	Left	Frontal lobe	GLSS-LU-00C7-R1
+GLSS-LX-0083	152		Surgery	Craniotomy	NA	NA	Right	Temporal lobe	GLSS-LX-0083-R1
+GLSS-LX-0083	304		Surgery	Craniotomy	NA	NA	Right	Temporal lobe	GLSS-LX-0083-R2
+GLSS-LX-0267	0		Surgery	Craniotomy	NA	NA	Left	Fronto-Temporal lobe	GLSS-LX-0267-TP
+GLSS-LX-0267	578		Surgery	Craniotomy	NA	NA	Left	Fronto-Temporal lobe	GLSS-LX-0267-R1
+GLSS-LX-0304	0		Surgery	Craniotomy	NA	NA	Left	Frontal lobe	GLSS-LX-0304-TP
+GLSS-LX-0304	274		Surgery	Craniotomy	NA	NA	Both	Frontal lobe	GLSS-LX-0304-R1
+GLSS-LX-0357	2677		Surgery	Craniotomy	NA	NA	Left	Multifocal	GLSS-LX-0357-R1
+GLSS-LX-0357	3042		Surgery	Craniotomy	NA	NA	Left	Multifocal	GLSS-LX-0357-R2
+GLSS-LX-0357	3559		Surgery	Craniotomy	NA	NA	Left	Multifocal	GLSS-LX-0357-R3
+GLSS-LX-0561	0		Surgery	Craniotomy	NA	NA	Left	Temporo-Occipital lobe	GLSS-LX-0561-TP
+GLSS-LX-0561	365		Surgery	Craniotomy	NA	NA	Left	Temporo-Occipital lobe	GLSS-LX-0561-R1
+GLSS-MD-0001	0		Surgery	Craniotomy	Adjuvant	Total	Right	Temporal lobe	GLSS-MD-0001-TP
+GLSS-MD-0001	7270		Surgery	Craniotomy	Relapse	Total	Right	Occipital lobe	GLSS-MD-0001-R1
+GLSS-MD-0003	1521		Surgery	Craniotomy	Relapse	Total	Left	Frontal lobe	GLSS-MD-0003-R1
+GLSS-MD-0003	2829		Surgery	Craniotomy	Relapse	Total	Left	Frontal lobe	GLSS-MD-0003-R2
+GLSS-MD-0003	2981		Surgery	Craniotomy	Relapse	Total	Left	Frontal lobe	GLSS-MD-0003-R3
+GLSS-MD-0004	122		Surgery	Stereotactic	Relapse	Biopsy	Left	Parietal lobe	GLSS-MD-0004-R1
+GLSS-MD-0004	1551		Surgery	Craniotomy	Relapse	Total	Left	Occipital lobe	GLSS-MD-0004-R2
+GLSS-MD-0005	61		Surgery	Craniotomy	Adjuvant	Total	Left	Frontal lobe	GLSS-MD-0005-TP
+GLSS-MD-0005	1643		Surgery	Craniotomy	Relapse	Total	Left	Frontal lobe	GLSS-MD-0005-R1
+GLSS-MD-0006	0		Surgery	Craniotomy	Adjuvant	Total	Left	Insular lobe	GLSS-MD-0006-TP
+GLSS-MD-0006	1703		Surgery	Craniotomy	Relapse	Subtotal	Left	Insular lobe	GLSS-MD-0006-R1
+GLSS-MD-0007	91		Surgery	Craniotomy	Adjuvant	Total	Left	Temporal lobe	GLSS-MD-0007-TP
+GLSS-MD-0007	3468		Surgery	Craniotomy	Relapse	Total	Left	Temporal lobe	GLSS-MD-0007-R1
+GLSS-MD-0008	335		Surgery	Craniotomy	Relapse	Subtotal	Left	Parietal lobe	GLSS-MD-0008-R1
+GLSS-MD-0008	4258		Surgery	Craniotomy	Relapse	Subtotal	Left	Parietal lobe	GLSS-MD-0008-R2
+GLSS-MD-0009	30		Surgery	Craniotomy	Adjuvant	Subtotal	Right	Insular lobe	GLSS-MD-0009-TP
+GLSS-MD-0009	2008		Surgery	Craniotomy	Therapeutic	Total	Right	Insular lobe	GLSS-MD-0009-R1
+GLSS-MD-0010	517		Surgery	Craniotomy	Relapse	Total	Right	Parietal lobe	GLSS-MD-0010-R1
+GLSS-MD-0010	1825		Surgery	Craniotomy	Relapse	Total	Right	Parietal lobe	GLSS-MD-0010-R2
+GLSS-MD-0010	2160		Surgery	Craniotomy	Relapse	Total	Right	Temporal lobe	GLSS-MD-0010-R3
+GLSS-MD-0011	122		Surgery	Craniotomy	Adjuvant	Subtotal	Right	Frontal lobe	GLSS-MD-0011-TP
+GLSS-MD-0011	1308		Surgery	Craniotomy	Relapse	Total	Right	Frontal lobe	GLSS-MD-0011-R1
+GLSS-MD-0012	30		Surgery	Craniotomy	Therapeutic	Total	Left	Frontal lobe	GLSS-MD-0012-TP
+GLSS-MD-0012	1825		Surgery	Craniotomy	Relapse	Total	Left	Frontal lobe	GLSS-MD-0012-R1
+GLSS-MD-0014	30		Surgery	Craniotomy	Adjuvant	Total	Left	Frontal lobe	GLSS-MD-0014-TP
+GLSS-MD-0014	1734		Surgery	Craniotomy	Relapse	Subtotal	Left	Frontal lobe	GLSS-MD-0014-R1
+GLSS-MD-0017	639		Surgery	Craniotomy	Relapse	Total	Right	Temporal lobe	GLSS-MD-0017-R1
+GLSS-MD-0017	730		Surgery	Craniotomy	Relapse	Total	Right	Temporal lobe	GLSS-MD-0017-R2
+GLSS-MD-0018	2129		Surgery	Craniotomy	Relapse	Total	Left	Frontal lobe	GLSS-MD-0018-R1
+GLSS-MD-0018	2312		Surgery	Craniotomy	Relapse	Subtotal	Left	Insular lobe	GLSS-MD-0018-R2
+GLSS-MD-0020	0		Surgery	Craniotomy	Therapeutic	Total	Right	Temporal lobe	GLSS-MD-0020-TP
+GLSS-MD-0020	730		Surgery	Craniotomy	Relapse	Subtotal	Right	Temporal lobe	GLSS-MD-0020-R1
+GLSS-MD-0021	0		Surgery	Craniotomy	Therapeutic	Subtotal	Left	Frontal lobe	GLSS-MD-0021-TP
+GLSS-MD-0021	3011		Surgery	Craniotomy	Relapse	Subtotal	Left	Frontal lobe	GLSS-MD-0021-R1
+GLSS-MD-0022	0		Surgery	Craniotomy	Therapeutic	Total	Left	Temporal lobe	GLSS-MD-0022-TP
+GLSS-MD-0022	122		Surgery	Craniotomy	Therapeutic	Subtotal	Left	Temporal lobe	GLSS-MD-0022-R1
+GLSS-MD-0023	0		Surgery	Craniotomy	Therapeutic	Total	Left	Occipital lobe	GLSS-MD-0023-TP
+GLSS-MD-0023	243		Surgery	Craniotomy	Relapse	Subtotal	Left	Occipital lobe	GLSS-MD-0023-R1
+GLSS-MD-0025	0		Surgery	Craniotomy	NA	Subtotal	Left	Temporal lobe	GLSS-MD-0025-TP
+GLSS-MD-0025	274		Surgery	Craniotomy	Progression	Subtotal	Left	Temporal lobe	GLSS-MD-0025-R1
+GLSS-MD-0026	0		Surgery	Craniotomy	Therapeutic	Total	Right	Temporal lobe	GLSS-MD-0026-TP
+GLSS-MD-0026	1034		Surgery	Craniotomy	Relapse	Total	Right	Temporal lobe	GLSS-MD-0026-R1
+GLSS-MD-0027	0		Surgery	Craniotomy	Therapeutic	Subtotal	Left	Temporal lobe	GLSS-MD-0027-TP
+GLSS-MD-0027	1673		Surgery	Craniotomy	Relapse	Subtotal	Left	Temporal lobe	GLSS-MD-0027-R1
+GLSS-MD-0027	2312		Surgery	Craniotomy	Relapse	Subtotal	Left	Temporal lobe	GLSS-MD-0027-R2
+GLSS-MD-0030	0		Surgery	Craniotomy	Adjuvant	Total	Left	Frontal lobe	GLSS-MD-0030-TP
+GLSS-MD-0030	3468		Surgery	Craniotomy	Relapse	Total	Left	Frontal lobe	GLSS-MD-0030-R1
+GLSS-MD-0031	0		Surgery	Craniotomy	Therapeutic	Total	Right	Temporal lobe	GLSS-MD-0031-TP
+GLSS-MD-0031	122		Surgery	Craniotomy	Relapse	Total	Right	Parietal lobe	GLSS-MD-0031-R1
+GLSS-MD-0032	0		Surgery	Craniotomy	NA	Subtotal	Left	Frontal lobe	GLSS-MD-0032-TP
+GLSS-MD-0032	578		Surgery	Craniotomy	Relapse	Total	Left	Frontal lobe	GLSS-MD-0032-R1
+GLSS-MD-0035	0		Surgery	Craniotomy	Therapeutic	Total	Left	Insular lobe	GLSS-MD-0035-TP
+GLSS-MD-0035	608		Surgery	Craniotomy	Relapse	Subtotal	Left	Insular lobe	GLSS-MD-0035-R1
+GLSS-MD-0036	0		Surgery	Craniotomy	Therapeutic	Total	Right	Temporal lobe	GLSS-MD-0036-TP
+GLSS-MD-0036	426		Surgery	Craniotomy	Relapse	Total	Right	Temporal lobe	GLSS-MD-0036-R1
+GLSS-MD-0038	0		Surgery	Craniotomy	Adjuvant	Subtotal	Right	Temporal lobe	GLSS-MD-0038-TP
+GLSS-MD-0038	213		Surgery	Craniotomy	Relapse	Total	Right	Temporal lobe	GLSS-MD-0038-R1
+GLSS-MD-0041	0		Surgery	Craniotomy	Adjuvant	Subtotal	Left	Insular lobe	GLSS-MD-0041-TP
+GLSS-MD-0041	2403		Surgery	Craniotomy	Relapse	Subtotal	Left	Insular lobe	GLSS-MD-0041-R1
+GLSS-MD-0042	0		Surgery	Craniotomy	Adjuvant	Total	Left	Occipital lobe	GLSS-MD-0042-TP
+GLSS-MD-0042	243		Surgery	Craniotomy	Prophylactic	Subtotal	Left	Temporal lobe	GLSS-MD-0042-R1
+GLSS-MD-0043	0		Surgery	Craniotomy	Adjuvant	Total	Left	Insular lobe	GLSS-MD-0043-TP
+GLSS-MD-0043	3498		Surgery	Craniotomy	Relapse	Subtotal	Left	Insular lobe	GLSS-MD-0043-R1
+GLSS-MD-0044	0		Surgery	Craniotomy	Adjuvant	Total	Right	Temporal lobe	GLSS-MD-0044-TP
+GLSS-MD-0044	1551		Surgery	Craniotomy	Relapse	Total	Right	Temporal lobe	GLSS-MD-0044-R1
+GLSS-MD-0045	0		Surgery	Craniotomy	Adjuvant	Total	Right	Parietal lobe	GLSS-MD-0045-TP
+GLSS-MD-0045	669		Surgery	Craniotomy	Relapse	Subtotal	Right	Frontal lobe	GLSS-MD-0045-R1
+GLSS-MD-0046	0		Surgery	Craniotomy	Adjuvant	Total	Right	Frontal lobe	GLSS-MD-0046-TP
+GLSS-MD-0046	639		Surgery	Craniotomy	Relapse	NA	Right	Frontal lobe	GLSS-MD-0046-R1
+GLSS-MD-0047	0		Surgery	Craniotomy	Adjuvant	Subtotal	Left	Temporal lobe	GLSS-MD-0047-TP
+GLSS-MD-0047	5232		Surgery	Craniotomy	Relapse	Subtotal	Left	Temporal lobe	GLSS-MD-0047-R1
+GLSS-MD-0048	0		Surgery	Craniotomy	Therapeutic	Total	Right	Frontal lobe	GLSS-MD-0048-TP
+GLSS-MD-0048	3559		Surgery	Craniotomy	Relapse	Subtotal	Right	Frontal lobe	GLSS-MD-0048-R1
+GLSS-MD-0049	0		Surgery	Craniotomy	Therapeutic	Subtotal	Right	Temporal lobe	GLSS-MD-0049-TP
+GLSS-MD-0049	1855		Surgery	Craniotomy	Relapse	Total	Right	Temporal lobe	GLSS-MD-0049-R1
+GLSS-MD-0082	0		Surgery	Craniotomy	NA	NA	Left	Temporal lobe	GLSS-MD-0082-TP
+GLSS-MD-0082	2251		Surgery	Craniotomy	NA	NA	NA	NA	GLSS-MD-0082-R1
+GLSS-MD-0086	61		Surgery	Craniotomy	NA	NA	Right	Insular lobe	GLSS-MD-0086-TP
+GLSS-MD-0086	1308		Surgery	Craniotomy	NA	NA	NA	NA	GLSS-MD-0086-R1
+GLSS-MD-0088	61		Surgery	Craniotomy	NA	Biopsy	Right	Parietal lobe	GLSS-MD-0088-TP
+GLSS-MD-0088	2525		Surgery	Craniotomy	NA	NA	NA	NA	GLSS-MD-0088-R1
+GLSS-MD-0089	1308		Surgery	Craniotomy	NA	NA	NA	NA	GLSS-MD-0089-TP
+GLSS-MD-0089	3498		Surgery	Craniotomy	NA	NA	NA	NA	GLSS-MD-0089-R1
+GLSS-MD-0090	0		Surgery	Craniotomy	NA	NA	Right	Parietal lobe	GLSS-MD-0090-TP
+GLSS-MD-0090	2525		Surgery	Craniotomy	NA	NA	NA	NA	GLSS-MD-0090-R1
+GLSS-MD-0091	426		Surgery	Craniotomy	NA	NA	NA	NA	GLSS-MD-0091-TP
+GLSS-MD-0091	2312		Surgery	Craniotomy	NA	NA	NA	NA	GLSS-MD-0091-R1
+GLSS-MD-0092	0		Surgery	Craniotomy	NA	NA	Right	Frontal lobe	GLSS-MD-0092-TP
+GLSS-MD-0092	1247		Surgery	Craniotomy	NA	NA	NA	NA	GLSS-MD-0092-R1
+GLSS-MD-0093	243		Surgery	Craniotomy	NA	NA	NA	NA	GLSS-MD-0093-TP
+GLSS-MD-0093	1947		Surgery	Craniotomy	NA	NA	NA	NA	GLSS-MD-0093-R1
+GLSS-MD-0094	0		Surgery	Craniotomy	NA	NA	Left	Insular lobe	GLSS-MD-0094-TP
+GLSS-MD-0094	2008		Surgery	Craniotomy	NA	NA	NA	NA	GLSS-MD-0094-R1
+GLSS-MD-0097	91		Surgery	Craniotomy	NA	NA	Right	Frontal lobe	GLSS-MD-0097-TP
+GLSS-MD-0097	608		Surgery	Craniotomy	NA	NA	NA	NA	GLSS-MD-0097-R1
+GLSS-MD-0112	0		Surgery	Craniotomy	NA	Subtotal	NA	Temporal lobe	GLSS-MD-0112-TP
+GLSS-MD-0112	2525		Surgery	Craniotomy	Progression	Total	NA	Parietal lobe	GLSS-MD-0112-R1
+GLSS-MD-0113	0		Surgery	Craniotomy	NA	Total	NA	Frontal lobe	GLSS-MD-0113-R1
+GLSS-MD-0113	2008		Surgery	Craniotomy	NA	Subtotal	NA	Frontal lobe	GLSS-MD-0113-R4
+GLSS-MD-LP01	0		Surgery	NA	NA	NA	NA	Insular lobe	GLSS-MD-LP01-TP
+GLSS-MD-LP01	1703		Surgery	NA	Progression	NA	NA	Insular lobe	GLSS-MD-LP01-R1
+GLSS-MD-LP02	0		Surgery	NA	NA	NA	Left	Frontal lobe	GLSS-MD-LP02-TP
+GLSS-MD-LP02	791		Surgery	NA	Progression	NA	Left	Frontal lobe	GLSS-MD-LP02-R1
+GLSS-MD-LP04	0		Surgery	NA	NA	NA	NA	Frontal lobe	GLSS-MD-LP04-TP
+GLSS-MD-LP04	578		Surgery	NA	Progression	NA	NA	Frontal lobe	GLSS-MD-LP04-R1
+GLSS-MD-LP10	0		Surgery	NA	NA	NA	Right	Parietal lobe	GLSS-MD-LP10-TP
+GLSS-MD-LP10	122		Surgery	NA	Progression	NA	Right	Parietal lobe	GLSS-MD-LP10-R1
+GLSS-MG-0001	0		Surgery	Craniotomy	NA	Total	Right	Frontal lobe	GLSS-MG-0001-TP
+GLSS-MG-0001	1551		Surgery	Autopsy	NA	NA	Right	Frontal lobe	GLSS-MG-0001-R1
+GLSS-MG-0002	0		Surgery	Craniotomy	NA	Total	Right	Frontal lobe	GLSS-MG-0002-TP
+GLSS-MG-0002	456		Surgery	Autopsy	NA	NA	Right	Frontal lobe	GLSS-MG-0002-R1
+GLSS-MG-0003	0		Surgery	Craniotomy	NA	Subtotal	Left	Temporal lobe	GLSS-MG-0003-TP
+GLSS-MG-0003	395		Surgery	Autopsy	NA	NA	Left	Temporal lobe	GLSS-MG-0003-R1
+GLSS-MG-0005	0		Surgery	Craniotomy	NA	Total	Right	Temporal lobe	GLSS-MG-0005-TP
+GLSS-MG-0005	639		Surgery	Autopsy	NA	NA	Right	Temporal lobe	GLSS-MG-0005-R1
+GLSS-MG-0006	0		Surgery	Craniotomy	NA	Subtotal	Right	Temporal lobe	GLSS-MG-0006-TP
+GLSS-MG-0006	548		Surgery	Autopsy	NA	NA	Right	Temporal lobe	GLSS-MG-0006-R1
+GLSS-MG-0007	0		Surgery	Craniotomy	NA	Biopsy	Right	Frontal lobe	GLSS-MG-0007-TP
+GLSS-MG-0007	730		Surgery	Autopsy	NA	NA	Both	NA	GLSS-MG-0007-R2
+GLSS-MG-0009	0		Surgery	Craniotomy	NA	Total	Left	Parietal lobe	GLSS-MG-0009-TP
+GLSS-MG-0009	426		Surgery	Autopsy	NA	NA	Left	Parietal lobe	GLSS-MG-0009-R1
+GLSS-MG-0010	0		Surgery	Craniotomy	NA	Subtotal	Right	Temporal lobe	GLSS-MG-0010-TP
+GLSS-MG-0010	243		Surgery	Autopsy	NA	NA	Right	Temporal lobe	GLSS-MG-0010-R1
+GLSS-MG-0011	0		Surgery	Craniotomy	NA	Subtotal	Left	Temporal lobe	GLSS-MG-0011-TP
+GLSS-MG-0011	335		Surgery	Autopsy	NA	NA	Left	Temporal lobe	GLSS-MG-0011-R1
+GLSS-MG-0015	0		Surgery	Craniotomy	NA	Total	Right	Frontal lobe	GLSS-MG-0015-TP
+GLSS-MG-0015	730		Surgery	Autopsy	NA	NA	Right	Frontal lobe	GLSS-MG-0015-R1
+GLSS-NS-0001	0		Surgery	Craniotomy	NA	NA	Left	Frontal lobe	GLSS-NS-0001-TP
+GLSS-NS-0001	152		Surgery	Craniotomy	NA	NA	Left	Parietal lobe	GLSS-NS-0001-R1
+GLSS-NS-0001	395		Surgery	Craniotomy	NA	NA	Left	Parietal lobe	GLSS-NS-0001-R2
+GLSS-NS-0001	487		Surgery	NA	NA	NA	Right	NA	GLSS-NS-0001-M1
+GLSS-SF-0001	0		Surgery	NA	NA	NA	NA	NA	GLSS-SF-0001-TP
+GLSS-SF-0001	943		Surgery	NA	NA	NA	NA	NA	GLSS-SF-0001-R1
+GLSS-SF-0002	0		Surgery	NA	NA	NA	NA	NA	GLSS-SF-0002-TP
+GLSS-SF-0002	2251		Surgery	NA	NA	NA	NA	NA	GLSS-SF-0002-R1
+GLSS-SF-0003	0		Surgery	NA	NA	NA	NA	NA	GLSS-SF-0003-TP
+GLSS-SF-0003	2312		Surgery	NA	NA	NA	NA	NA	GLSS-SF-0003-R1
+GLSS-SF-0004	0		Surgery	NA	NA	NA	NA	NA	GLSS-SF-0004-TP
+GLSS-SF-0004	456		Surgery	NA	NA	NA	NA	NA	GLSS-SF-0004-R1
+GLSS-SF-0004	1065		Surgery	NA	NA	NA	NA	NA	GLSS-SF-0004-R2
+GLSS-SF-0004	1338		Surgery	NA	NA	NA	NA	NA	GLSS-SF-0004-R3
+GLSS-SF-0005	0		Surgery	NA	NA	NA	NA	NA	GLSS-SF-0005-TP
+GLSS-SF-0005	1703		Surgery	NA	NA	NA	NA	NA	GLSS-SF-0005-R1
+GLSS-SF-0006	0		Surgery	NA	NA	NA	NA	NA	GLSS-SF-0006-TP
+GLSS-SF-0006	973		Surgery	NA	NA	NA	NA	NA	GLSS-SF-0006-R1
+GLSS-SF-0007	0		Surgery	NA	NA	NA	NA	NA	GLSS-SF-0007-TP
+GLSS-SF-0007	3194		Surgery	NA	NA	NA	NA	NA	GLSS-SF-0007-R1
+GLSS-SF-0008	0		Surgery	NA	NA	NA	NA	NA	GLSS-SF-0008-TP
+GLSS-SF-0008	1217		Surgery	NA	NA	NA	NA	NA	GLSS-SF-0008-R1
+GLSS-SF-0009	0		Surgery	NA	NA	NA	NA	NA	GLSS-SF-0009-TP
+GLSS-SF-0009	1065		Surgery	NA	NA	NA	NA	NA	GLSS-SF-0009-R1
+GLSS-SF-0010	0		Surgery	NA	NA	NA	NA	NA	GLSS-SF-0010-TP
+GLSS-SF-0010	760		Surgery	NA	NA	NA	NA	NA	GLSS-SF-0010-R1
+GLSS-SF-0011	0		Surgery	NA	NA	NA	NA	NA	GLSS-SF-0011-TP
+GLSS-SF-0011	4015		Surgery	NA	NA	NA	NA	NA	GLSS-SF-0011-R1
+GLSS-SF-0012	0		Surgery	NA	NA	NA	NA	NA	GLSS-SF-0012-TP
+GLSS-SF-0012	517		Surgery	NA	NA	NA	NA	NA	GLSS-SF-0012-R1
+GLSS-SF-0013	0		Surgery	NA	NA	NA	NA	NA	GLSS-SF-0013-TP
+GLSS-SF-0013	639		Surgery	NA	NA	NA	NA	NA	GLSS-SF-0013-R1
+GLSS-SF-0014	0		Surgery	NA	NA	NA	NA	NA	GLSS-SF-0014-TP
+GLSS-SF-0014	913		Surgery	NA	NA	NA	NA	NA	GLSS-SF-0014-R1
+GLSS-SF-0015	0		Surgery	NA	NA	NA	NA	NA	GLSS-SF-0015-TP
+GLSS-SF-0015	3620		Surgery	NA	NA	NA	NA	NA	GLSS-SF-0015-R1
+GLSS-SF-0016	0		Surgery	NA	NA	NA	NA	NA	GLSS-SF-0016-TP
+GLSS-SF-0016	152		Surgery	NA	NA	NA	NA	NA	GLSS-SF-0016-R1
+GLSS-SF-0017	0		Surgery	NA	NA	NA	NA	NA	GLSS-SF-0017-TP
+GLSS-SF-0017	913		Surgery	NA	NA	NA	NA	NA	GLSS-SF-0017-R1
+GLSS-SF-0018	0		Surgery	NA	NA	NA	NA	NA	GLSS-SF-0018-TP
+GLSS-SF-0018	2859		Surgery	NA	NA	NA	NA	NA	GLSS-SF-0018-R1
+GLSS-SF-0020	0		Surgery	NA	NA	NA	NA	NA	GLSS-SF-0020-TP
+GLSS-SF-0020	3285		Surgery	NA	NA	NA	NA	NA	GLSS-SF-0020-R1
+GLSS-SF-0021	0		Surgery	NA	NA	NA	NA	NA	GLSS-SF-0021-TP
+GLSS-SF-0021	639		Surgery	NA	NA	NA	NA	NA	GLSS-SF-0021-R1
+GLSS-SF-0022	0		Surgery	NA	NA	NA	NA	NA	GLSS-SF-0022-TP
+GLSS-SF-0022	1703		Surgery	NA	NA	NA	NA	NA	GLSS-SF-0022-R1
+GLSS-SF-0024	0		Surgery	NA	NA	NA	NA	NA	GLSS-SF-0024-TP
+GLSS-SF-0024	2677		Surgery	NA	NA	NA	NA	NA	GLSS-SF-0024-R1
+GLSS-SF-0024	3103		Surgery	NA	NA	NA	NA	NA	GLSS-SF-0024-R2
+GLSS-SF-0025	0		Surgery	NA	NA	NA	NA	NA	GLSS-SF-0025-TP
+GLSS-SF-0025	426		Surgery	NA	NA	NA	NA	NA	GLSS-SF-0025-R1
+GLSS-SF-0026	0		Surgery	NA	NA	NA	NA	NA	GLSS-SF-0026-TP
+GLSS-SF-0026	456		Surgery	NA	NA	NA	NA	NA	GLSS-SF-0026-R1
+GLSS-SF-0027	0		Surgery	NA	NA	NA	NA	NA	GLSS-SF-0027-TP
+GLSS-SF-0027	365		Surgery	NA	NA	NA	NA	NA	GLSS-SF-0027-R1
+GLSS-SF-0028	0		Surgery	NA	NA	NA	NA	NA	GLSS-SF-0028-TP
+GLSS-SF-0028	2585		Surgery	NA	NA	NA	NA	NA	GLSS-SF-0028-R1
+GLSS-SF-0029	0		Surgery	NA	NA	NA	NA	NA	GLSS-SF-0029-TP
+GLSS-SF-0029	1734		Surgery	NA	NA	NA	NA	NA	GLSS-SF-0029-R1
+GLSS-SF-0032	0		Surgery	NA	NA	NA	NA	NA	GLSS-SF-0032-TP
+GLSS-SF-0032	365		Surgery	NA	NA	NA	NA	NA	GLSS-SF-0032-R1
+GLSS-SF-0037	0		Surgery	NA	NA	NA	NA	NA	GLSS-SF-0037-TP
+GLSS-SF-0037	1734		Surgery	NA	NA	NA	NA	NA	GLSS-SF-0037-R1
+GLSS-SF-0038	0		Surgery	NA	NA	NA	NA	NA	GLSS-SF-0038-TP
+GLSS-SF-0038	608		Surgery	NA	NA	NA	NA	NA	GLSS-SF-0038-R1
+GLSS-SF-0039	0		Surgery	NA	NA	NA	NA	NA	GLSS-SF-0039-TP
+GLSS-SF-0039	1217		Surgery	NA	NA	NA	NA	NA	GLSS-SF-0039-R1
+GLSS-SF-0058	0		Surgery	NA	NA	NA	NA	NA	GLSS-SF-0058-TP
+GLSS-SF-0058	1065		Surgery	NA	NA	NA	NA	NA	GLSS-SF-0058-R1
+GLSS-SF-0060	0		Surgery	NA	NA	NA	NA	NA	GLSS-SF-0060-TP
+GLSS-SF-0060	1308		Surgery	NA	NA	NA	NA	NA	GLSS-SF-0060-R1
+GLSS-SF-0065	0		Surgery	NA	NA	NA	NA	NA	GLSS-SF-0065-TP
+GLSS-SF-0065	1825		Surgery	NA	NA	NA	NA	NA	GLSS-SF-0065-R1
+GLSS-SF-0069	0		Surgery	NA	NA	NA	NA	NA	GLSS-SF-0069-TP
+GLSS-SF-0069	3011		Surgery	NA	NA	NA	NA	NA	GLSS-SF-0069-R1
+GLSS-SF-0131	0		Surgery	NA	NA	NA	NA	NA	GLSS-SF-0131-TP
+GLSS-SF-0131	122		Surgery	NA	NA	NA	NA	NA	GLSS-SF-0131-R1
+GLSS-SF-0157	0		Surgery	NA	NA	NA	NA	NA	GLSS-SF-0157-TP
+GLSS-SF-0157	791		Surgery	NA	NA	NA	NA	NA	GLSS-SF-0157-R1
+GLSS-SF-0159	0		Surgery	NA	NA	NA	NA	NA	GLSS-SF-0159-TP
+GLSS-SF-0159	1125		Surgery	NA	NA	NA	NA	NA	GLSS-SF-0159-R1
+GLSS-SF-0161	0		Surgery	NA	NA	NA	NA	NA	GLSS-SF-0161-TP
+GLSS-SF-0161	3376		Surgery	NA	NA	NA	NA	NA	GLSS-SF-0161-R1
+GLSS-SF-0163	0		Surgery	NA	NA	NA	NA	NA	GLSS-SF-0163-TP
+GLSS-SF-0163	2707		Surgery	NA	NA	NA	NA	NA	GLSS-SF-0163-R1
+GLSS-SF-0170	0		Surgery	NA	NA	NA	NA	NA	GLSS-SF-0170-TP
+GLSS-SF-0170	943		Surgery	NA	NA	NA	NA	NA	GLSS-SF-0170-R1
+GLSS-SF-0334	0		Surgery	NA	NA	NA	NA	NA	GLSS-SF-0334-TP
+GLSS-SF-0334	1916		Surgery	NA	NA	NA	NA	NA	GLSS-SF-0334-R1
+GLSS-SF-0338	0		Surgery	NA	NA	NA	NA	NA	GLSS-SF-0338-TP
+GLSS-SF-0338	1034		Surgery	NA	NA	NA	NA	NA	GLSS-SF-0338-R1
+GLSS-SF-0339	0		Surgery	NA	NA	NA	NA	NA	GLSS-SF-0339-TP
+GLSS-SF-0339	548		Surgery	NA	NA	NA	NA	NA	GLSS-SF-0339-R1
+GLSS-SM-R056	0		Surgery	NA	NA	NA	Left	Parietal lobe	GLSS-SM-R056-TP
+GLSS-SM-R056	1490		Surgery	NA	NA	NA	Left	Parietal lobe	GLSS-SM-R056-R2
+GLSS-SM-R056	1734		Surgery	NA	NA	NA	Left	Parietal lobe	GLSS-SM-R056-R3
+GLSS-SM-R057	0		Surgery	NA	NA	NA	Right	Parietal lobe	GLSS-SM-R057-TP
+GLSS-SM-R058	0		Surgery	NA	NA	NA	Right	Temporal lobe	GLSS-SM-R058-TP
+GLSS-SM-R058	1156		Surgery	NA	NA	NA	Right	Frontal lobe	GLSS-SM-R058-R1
+GLSS-SM-R060	0		Surgery	NA	NA	NA	Right	Parietal lobe	GLSS-SM-R060-TP
+GLSS-SM-R060	548		Surgery	NA	NA	NA	Right	Temporal lobe	GLSS-SM-R060-R1
+GLSS-SM-R060	943		Surgery	NA	NA	NA	Right	Temporal lobe	GLSS-SM-R060-R3
+GLSS-SM-R061	0		Surgery	NA	NA	NA	Right	Frontal lobe	GLSS-SM-R061-TP
+GLSS-SM-R061	30		Surgery	NA	NA	NA	Right	Temporal lobe	GLSS-SM-R061-R1
+GLSS-SM-R062	0		Surgery	NA	NA	NA	Right	Temporal lobe	GLSS-SM-R062-TP
+GLSS-SM-R062	821		Surgery	NA	NA	NA	Right	Temporal lobe	GLSS-SM-R062-R1
+GLSS-SM-R063	0		Surgery	NA	NA	NA	Left	Temporal lobe	GLSS-SM-R063-TP
+GLSS-SM-R063	913		Surgery	NA	NA	NA	Left	Temporal lobe	GLSS-SM-R063-R1
+GLSS-SM-R064	0		Surgery	NA	NA	NA	Left	Temporal lobe	GLSS-SM-R064-TP
+GLSS-SM-R064	791		Surgery	NA	NA	NA	Left	Occipital lobe	GLSS-SM-R064-R1
+GLSS-SM-R064	1065		Surgery	NA	NA	NA	Left	Occipital lobe	GLSS-SM-R064-R2
+GLSS-SM-R065	0		Surgery	NA	NA	NA	Left	Temporal lobe	GLSS-SM-R065-TP
+GLSS-SM-R065	426		Surgery	NA	NA	NA	Left	Temporal lobe	GLSS-SM-R065-R1
+GLSS-SM-R066	0		Surgery	NA	NA	NA	Left	Parietal lobe	GLSS-SM-R066-TP
+GLSS-SM-R066	426		Surgery	NA	NA	NA	Left	Parietal lobe	GLSS-SM-R066-R1
+GLSS-SM-R067	0		Surgery	NA	NA	NA	Left	Frontal lobe	GLSS-SM-R067-TP
+GLSS-SM-R067	30		Surgery	NA	NA	NA	Right	Frontal lobe	GLSS-SM-R067-R1
+GLSS-SM-R068	0		Surgery	NA	NA	NA	Right	Frontal lobe	GLSS-SM-R068-TP
+GLSS-SM-R068	487		Surgery	NA	NA	NA	Right	Frontal lobe	GLSS-SM-R068-R1
+GLSS-SM-R069	0		Surgery	NA	NA	NA	Right	Temporal lobe	GLSS-SM-R069-TP
+GLSS-SM-R069	61		Surgery	NA	NA	NA	Right	Temporal lobe	GLSS-SM-R069-R2
+GLSS-SM-R070	0		Surgery	NA	NA	NA	Right	Frontal lobe	GLSS-SM-R070-TP
+GLSS-SM-R070	213		Surgery	NA	NA	NA	Right	Frontal lobe	GLSS-SM-R070-R1
+GLSS-SM-R071	0		Surgery	NA	NA	NA	Left	Temporal lobe	GLSS-SM-R071-TP
+GLSS-SM-R071	335		Surgery	NA	NA	NA	Right	Frontal lobe	GLSS-SM-R071-R1
+GLSS-SM-R072	0		Surgery	NA	NA	NA	Left	Frontal lobe	GLSS-SM-R072-TP
+GLSS-SM-R072	152		Surgery	NA	NA	NA	Left	Frontal lobe	GLSS-SM-R072-R1
+GLSS-SM-R075	0		Surgery	NA	NA	NA	Left	Temporal lobe	GLSS-SM-R075-TP
+GLSS-SM-R075	183		Surgery	NA	NA	NA	Left	Temporal lobe	GLSS-SM-R075-R1
+GLSS-SM-R078	1247		Surgery	NA	NA	NA	Left	Frontal lobe	GLSS-SM-R078-R1
+GLSS-SM-R078	2129		Surgery	NA	NA	NA	Left	Frontal lobe	GLSS-SM-R078-R2
+GLSS-SM-R080	0		Surgery	NA	NA	NA	Right	Frontal lobe	GLSS-SM-R080-TP
+GLSS-SM-R080	821		Surgery	NA	NA	NA	Right	Frontal lobe	GLSS-SM-R080-R1
+GLSS-SM-R081	0		Surgery	NA	NA	NA	Right	Frontal lobe	GLSS-SM-R081-TP
+GLSS-SM-R081	365		Surgery	NA	NA	NA	Right	Frontal lobe	GLSS-SM-R081-R1
+GLSS-SM-R082	0		Surgery	NA	NA	NA	Right	Frontal lobe	GLSS-SM-R082-TP
+GLSS-SM-R082	91		Surgery	NA	NA	NA	Right	Frontal lobe	GLSS-SM-R082-R1
+GLSS-SM-R083	0		Surgery	NA	NA	NA	Right	Temporal lobe	GLSS-SM-R083-TP
+GLSS-SM-R083	487		Surgery	NA	NA	NA	Right	Temporal lobe	GLSS-SM-R083-R1
+GLSS-SM-R085	0		Surgery	NA	NA	NA	Right	Temporal lobe	GLSS-SM-R085-TP
+GLSS-SM-R085	395		Surgery	NA	NA	NA	Right	Temporal lobe	GLSS-SM-R085-R1
+GLSS-SM-R087	0		Surgery	NA	NA	NA	Left	Frontal lobe	GLSS-SM-R087-TP
+GLSS-SM-R087	548		Surgery	NA	NA	NA	Right	Frontal lobe	GLSS-SM-R087-R1
+GLSS-SM-R088	0		Surgery	NA	NA	NA	Right	Frontal lobe	GLSS-SM-R088-TP
+GLSS-SM-R088	365		Surgery	NA	NA	NA	Right	Frontal lobe	GLSS-SM-R088-R1
+GLSS-SM-R091	0		Surgery	NA	NA	NA	Left	Frontal lobe	GLSS-SM-R091-TP
+GLSS-SM-R091	213		Surgery	NA	NA	NA	Left	Frontal lobe	GLSS-SM-R091-R1
+GLSS-SM-R093	0		Surgery	NA	NA	NA	Left	Temporal lobe	GLSS-SM-R093-TP
+GLSS-SM-R093	213		Surgery	NA	NA	NA	Left	Temporal lobe	GLSS-SM-R093-R1
+GLSS-SM-R095	0		Surgery	NA	NA	NA	NA	NA	GLSS-SM-R095-TP
+GLSS-SM-R095	426		Surgery	NA	NA	NA	NA	NA	GLSS-SM-R095-R1
+GLSS-SM-R096	0		Surgery	NA	NA	NA	NA	NA	GLSS-SM-R096-TP
+GLSS-SM-R096	578		Surgery	NA	NA	NA	NA	NA	GLSS-SM-R096-R1
+GLSS-SM-R097	0		Surgery	NA	NA	NA	NA	NA	GLSS-SM-R097-TP
+GLSS-SM-R097	517		Surgery	NA	NA	NA	NA	NA	GLSS-SM-R097-R1
+GLSS-SM-R099	0		Surgery	NA	NA	NA	NA	NA	GLSS-SM-R099-TP
+GLSS-SM-R099	61		Surgery	NA	NA	NA	NA	NA	GLSS-SM-R099-R1
+GLSS-SM-R100	0		Surgery	NA	NA	NA	NA	NA	GLSS-SM-R100-TP
+GLSS-SM-R100	152		Surgery	NA	NA	NA	NA	NA	GLSS-SM-R100-R1
+GLSS-SM-R101	0		Surgery	NA	NA	NA	NA	NA	GLSS-SM-R101-TP
+GLSS-SM-R101	304		Surgery	NA	NA	NA	NA	NA	GLSS-SM-R101-R1
+GLSS-SM-R102	0		Surgery	NA	NA	NA	NA	NA	GLSS-SM-R102-TP
+GLSS-SM-R102	395		Surgery	NA	NA	NA	NA	NA	GLSS-SM-R102-R1
+GLSS-SM-R103	0		Surgery	NA	NA	NA	NA	NA	GLSS-SM-R103-TP
+GLSS-SM-R103	61		Surgery	NA	NA	NA	NA	NA	GLSS-SM-R103-R1
+GLSS-SM-R104	0		Surgery	NA	NA	NA	NA	NA	GLSS-SM-R104-TP
+GLSS-SM-R104	183		Surgery	NA	NA	NA	NA	NA	GLSS-SM-R104-R1
+GLSS-SM-R106	0		Surgery	NA	NA	NA	NA	NA	GLSS-SM-R106-TP
+GLSS-SM-R106	213		Surgery	NA	NA	NA	NA	NA	GLSS-SM-R106-R1
+GLSS-SM-R107	0		Surgery	NA	NA	NA	NA	NA	GLSS-SM-R107-TP
+GLSS-SM-R107	243		Surgery	NA	NA	NA	NA	NA	GLSS-SM-R107-R1
+GLSS-SM-R108	0		Surgery	NA	NA	NA	NA	NA	GLSS-SM-R108-TP
+GLSS-SM-R108	152		Surgery	NA	NA	NA	NA	NA	GLSS-SM-R108-R1
+GLSS-SM-R109	0		Surgery	NA	NA	NA	NA	NA	GLSS-SM-R109-TP
+GLSS-SM-R109	365		Surgery	NA	NA	NA	NA	NA	GLSS-SM-R109-R1
+GLSS-SM-R110	0		Surgery	NA	NA	NA	NA	NA	GLSS-SM-R110-TP
+GLSS-SM-R110	91		Surgery	NA	NA	NA	NA	NA	GLSS-SM-R110-R1
+GLSS-SM-R111	0		Surgery	NA	NA	NA	NA	NA	GLSS-SM-R111-TP
+GLSS-SM-R111	213		Surgery	NA	NA	NA	NA	NA	GLSS-SM-R111-R1
+GLSS-SM-R112	0		Surgery	NA	NA	NA	NA	NA	GLSS-SM-R112-TP
+GLSS-SM-R112	30		Surgery	NA	NA	NA	NA	NA	GLSS-SM-R112-R1
+GLSS-SN-0001	0		Surgery	Craniotomy	NA	Subtotal	Right	Parietal lobe	GLSS-SN-0001-TP
+GLSS-SN-0001	517		Surgery	Craniotomy	NA	Subtotal	Right	Fronto-Parietal lobe	GLSS-SN-0001-R1
+GLSS-SN-0002	0		Surgery	Craniotomy	NA	Subtotal	Right	Fronto-Parietal lobe	GLSS-SN-0002-TP
+GLSS-SN-0002	243		Surgery	Craniotomy	NA	Total	Right	Fronto-Parietal lobe	GLSS-SN-0002-R1
+GLSS-SN-0003	0		Surgery	Craniotomy	NA	Total	Left	Frontal lobe	GLSS-SN-0003-TP
+GLSS-SN-0003	274		Surgery	Craniotomy	NA	Subtotal	Left	Frontal lobe	GLSS-SN-0003-R1
+GLSS-SN-0004	0		Surgery	Craniotomy	NA	Subtotal	Left	Parietal lobe	GLSS-SN-0004-TP
+GLSS-SN-0004	1004		Surgery	Craniotomy	NA	Total	Left	Temporal lobe	GLSS-SN-0004-R1
+GLSS-SN-0006	0		Surgery	Craniotomy	NA	Subtotal	Right	Frontal lobe	GLSS-SN-0006-TP
+GLSS-SN-0006	669		Surgery	Craniotomy	NA	Total	Right	Parietal lobe	GLSS-SN-0006-R1
+GLSS-SN-0007	122		Surgery	Craniotomy	NA	Subtotal	Right	Fronto-Temporal lobe	GLSS-SN-0007-R1
+GLSS-SN-0007	395		Surgery	Craniotomy	NA	Subtotal	Right	Fronto-Temporal lobe	GLSS-SN-0007-R2
+GLSS-SN-0008	0		Surgery	Craniotomy	NA	Total	Right	Fronto-Parietal lobe	GLSS-SN-0008-TP
+GLSS-SN-0008	243		Surgery	Craniotomy	NA	Total	Right	Fronto-Parietal lobe	GLSS-SN-0008-R1
+GLSS-SN-0009	0		Surgery	Craniotomy	NA	Subtotal	Left	Fronto-Parietal lobe	GLSS-SN-0009-TP
+GLSS-SN-0009	213		Surgery	Craniotomy	NA	Subtotal	Left	Fronto-Parietal lobe	GLSS-SN-0009-R1
+GLSS-SN-0010	0		Surgery	Craniotomy	NA	Total	Left	Frontal lobe	GLSS-SN-0010-TP
+GLSS-SN-0010	335		Surgery	Craniotomy	NA	Total	Left	Frontal lobe	GLSS-SN-0010-R1
+GLSS-SN-0013	0		Surgery	Craniotomy	NA	Total	Left	Frontal lobe	GLSS-SN-0013-TP
+GLSS-SN-0013	335		Surgery	Craniotomy	NA	Total	Left	Frontal lobe	GLSS-SN-0013-R2
+GLSS-SN-0015	0		Surgery	Craniotomy	NA	Total	Right	Fronto-Temporal lobe	GLSS-SN-0015-TP
+GLSS-SN-0015	456		Surgery	Craniotomy	NA	Total	Right	Fronto-Temporal lobe	GLSS-SN-0015-R2
+GLSS-SN-0016	0		Surgery	Craniotomy	NA	Subtotal	Right	Parieto-Occipital lobe	GLSS-SN-0016-TP
+GLSS-SN-0016	243		Surgery	Craniotomy	NA	Total	Right	Parieto-Occipital lobe	GLSS-SN-0016-R1
+GLSS-SN-0017	0		Surgery	Craniotomy	NA	Subtotal	Left	Fronto-Parietal lobe	GLSS-SN-0017-TP
+GLSS-SN-0017	1338		Surgery	Craniotomy	NA	Subtotal	Left	Fronto-Temporal lobe	GLSS-SN-0017-R1
+GLSS-SU-0001	0		Surgery	NA	NA	Subtotal	NA	Temporal lobe	GLSS-SU-0001-TP
+GLSS-SU-0001	1217		Surgery	NA	NA	NA	NA	NA	GLSS-SU-0001-R1
+GLSS-SU-0002	0		Surgery	NA	NA	Total	NA	Frontal lobe	GLSS-SU-0002-TP
+GLSS-SU-0002	943		Surgery	NA	NA	NA	NA	NA	GLSS-SU-0002-R1
+GLSS-SU-0002	1004		Surgery	NA	NA	NA	NA	NA	GLSS-SU-0002-R2
+GLSS-SU-0002	1369		Surgery	NA	NA	NA	NA	NA	GLSS-SU-0002-R3
+GLSS-SU-0003	0		Surgery	NA	NA	Total	NA	Frontal lobe	GLSS-SU-0003-TP
+GLSS-SU-0003	1034		Surgery	NA	NA	NA	NA	NA	GLSS-SU-0003-R1
+GLSS-SU-0004	0		Surgery	NA	NA	Total	NA	Temporal lobe	GLSS-SU-0004-TP
+GLSS-SU-0004	791		Surgery	NA	NA	NA	NA	NA	GLSS-SU-0004-R1
+GLSS-SU-0005	0		Surgery	NA	NA	Total	NA	Temporal lobe	GLSS-SU-0005-TP
+GLSS-SU-0005	61		Surgery	NA	NA	NA	NA	NA	GLSS-SU-0005-R1
+GLSS-SU-0005	1156		Surgery	NA	NA	NA	NA	NA	GLSS-SU-0005-R2
+GLSS-SU-0007	0		Surgery	NA	NA	Total	NA	Frontal lobe	GLSS-SU-0007-TP
+GLSS-SU-0007	1886		Surgery	NA	NA	NA	NA	NA	GLSS-SU-0007-R1
+GLSS-SU-0202	0		Surgery	NA	NA	Total	NA	Parietal lobe	GLSS-SU-0202-TP
+GLSS-SU-0202	1460		Surgery	NA	NA	NA	NA	NA	GLSS-SU-0202-R1
+GLSS-SU-0239	0		Surgery	NA	NA	Total	NA	Temporal lobe	GLSS-SU-0239-TP
+GLSS-SU-0239	730		Surgery	NA	NA	NA	NA	NA	GLSS-SU-0239-R1
+GLSS-SU-0270	0		Surgery	NA	NA	Total	NA	Frontal lobe	GLSS-SU-0270-TP
+GLSS-SU-0270	1034		Surgery	NA	NA	NA	NA	NA	GLSS-SU-0270-R1
+GLSS-SU-0270	1156		Surgery	NA	NA	NA	NA	NA	GLSS-SU-0270-R2
+TCGA-06-0125	0		Surgery	Craniotomy	NA	Subtotal	Left	Temporal lobe	TCGA-06-0125-TP
+TCGA-06-0125	821		Surgery	Craniotomy	NA	Subtotal	Left	Temporal lobe	TCGA-06-0125-R1
+TCGA-06-0152	0		Surgery	Craniotomy	NA	NA	Right	Temporal lobe	TCGA-06-0152-TP
+TCGA-06-0152	183		Surgery	Craniotomy	NA	Total	Right	Temporal lobe	TCGA-06-0152-R1
+TCGA-06-0171	0		Surgery	Craniotomy	NA	Subtotal	Right	Frontal lobe	TCGA-06-0171-TP
+TCGA-06-0171	122		Surgery	Craniotomy	NA	Subtotal	Right	Frontal lobe	TCGA-06-0171-R1
+TCGA-06-0190	0		Surgery	Craniotomy	NA	Subtotal	Left	Parietal lobe	TCGA-06-0190-TP
+TCGA-06-0190	213		Surgery	Craniotomy	NA	NA	Left	Parietal lobe	TCGA-06-0190-R1
+TCGA-06-0210	0		Surgery	Craniotomy	NA	Subtotal	Right	Temporal lobe	TCGA-06-0210-TP
+TCGA-06-0210	61		Surgery	Craniotomy	NA	Subtotal	Right	Temporal lobe	TCGA-06-0210-R1
+TCGA-06-0211	0		Surgery	Craniotomy	NA	Subtotal	Left	Temporal lobe	TCGA-06-0211-TP
+TCGA-06-0211	213		Surgery	Craniotomy	NA	Subtotal	Left	Temporal lobe	TCGA-06-0211-R1
+TCGA-06-0221	0		Surgery	Craniotomy	NA	Subtotal	Right	Frontal lobe	TCGA-06-0221-TP
+TCGA-06-0221	274		Surgery	Craniotomy	NA	Total	Right	Frontal lobe	TCGA-06-0221-R1
+TCGA-14-0736	0		Surgery	NA	NA	NA	NA	NA	TCGA-14-0736-TP
+TCGA-14-0736	213		Surgery	NA	NA	NA	NA	NA	TCGA-14-0736-R1
+TCGA-14-1034	0		Surgery	NA	NA	NA	NA	NA	TCGA-14-1034-TP
+TCGA-14-1034	456		Surgery	NA	NA	NA	NA	NA	TCGA-14-1034-R1
+TCGA-14-1402	0		Surgery	NA	NA	NA	NA	NA	TCGA-14-1402-TP
+TCGA-14-1402	882		Surgery	NA	NA	NA	NA	NA	TCGA-14-1402-R1
+TCGA-19-0957	0		Surgery	NA	NA	Total	NA	NA	TCGA-19-0957-TP
+TCGA-19-0957	426		Surgery	NA	NA	Total	NA	NA	TCGA-19-0957-R1
+TCGA-19-1389	0		Surgery	NA	NA	Total	NA	NA	TCGA-19-1389-TP
+TCGA-19-1389	91		Surgery	NA	NA	Subtotal	NA	NA	TCGA-19-1389-R1
+TCGA-19-4065	0		Surgery	NA	NA	Total	NA	NA	TCGA-19-4065-TP
+TCGA-19-4065	61		Surgery	NA	NA	NA	NA	NA	TCGA-19-4065-R1
+TCGA-DH-A669	0		Surgery	Craniotomy	NA	Subtotal	NA	NA	TCGA-DH-A669-TP
+TCGA-DH-A669	426		Surgery	Craniotomy	NA	Subtotal	NA	NA	TCGA-DH-A669-R1
+TCGA-DU-5870	0		Surgery	Craniotomy	NA	Subtotal	Right	Temporal lobe	TCGA-DU-5870-TP
+TCGA-DU-5870	4441		Surgery	Craniotomy	NA	Subtotal	Right	Temporal lobe	TCGA-DU-5870-R1
+TCGA-DU-5872	0		Surgery	Craniotomy	NA	Subtotal	Left	Frontal lobe	TCGA-DU-5872-TP
+TCGA-DU-5872	274		Surgery	Craniotomy	NA	Subtotal	Left	Frontal lobe	TCGA-DU-5872-R1
+TCGA-DU-6397	0		Surgery	Craniotomy	NA	Subtotal	Right	Temporal lobe	TCGA-DU-6397-TP
+TCGA-DU-6397	852		Surgery	Craniotomy	NA	Total	Right	Temporal lobe	TCGA-DU-6397-R1
+TCGA-DU-6404	0		Surgery	Craniotomy	NA	Subtotal	Right	Fronto-Parietal lobe	TCGA-DU-6404-TP
+TCGA-DU-6404	1186		Surgery	Craniotomy	NA	Total	Right	Fronto-Parietal lobe	TCGA-DU-6404-R1
+TCGA-DU-6404	3954		Surgery	Craniotomy	NA	Subtotal	Right	Fronto-Parietal lobe	TCGA-DU-6404-R2
+TCGA-DU-6407	0		Surgery	Craniotomy	NA	Subtotal	Right	Temporal lobe	TCGA-DU-6407-TP
+TCGA-DU-6407	2403		Surgery	Craniotomy	NA	Total	Right	Temporal lobe	TCGA-DU-6407-R1
+TCGA-DU-6407	2798		Surgery	Craniotomy	NA	Subtotal	Right	Temporal lobe	TCGA-DU-6407-R2
+TCGA-DU-7304	0		Surgery	Craniotomy	NA	Total	Left	Frontal lobe	TCGA-DU-7304-TP
+TCGA-DU-7304	335		Surgery	Craniotomy	NA	Total	Left	Frontal lobe	TCGA-DU-7304-R1
+TCGA-FG-5963	0		Surgery	Craniotomy	NA	Total	NA	NA	TCGA-FG-5963-TP
+TCGA-FG-5963	426		Surgery	Craniotomy	NA	Total	NA	NA	TCGA-FG-5963-R1
+TCGA-FG-5965	0		Surgery	Craniotomy	NA	Total	NA	NA	TCGA-FG-5965-TP
+TCGA-FG-5965	760		Surgery	Craniotomy	NA	Total	NA	NA	TCGA-FG-5965-R1
+TCGA-FG-5965	1034		Surgery	Craniotomy	NA	Subtotal	NA	NA	TCGA-FG-5965-R2
+TCGA-FG-A4MT	0		Surgery	Craniotomy	NA	Total	NA	NA	TCGA-FG-A4MT-TP
+TCGA-FG-A4MT	639		Surgery	Craniotomy	NA	Total	NA	NA	TCGA-FG-A4MT-R1
+TCGA-TM-A7CF	0		Surgery	Craniotomy	NA	Total	NA	NA	TCGA-TM-A7CF-TP
+TCGA-TM-A7CF	943		Surgery	Craniotomy	NA	Total	NA	NA	TCGA-TM-A7CF-R1
+TCGA-TQ-A7RK	0		Surgery	NA	NA	NA	NA	NA	TCGA-TQ-A7RK-TP
+TCGA-TQ-A7RK	183		Surgery	NA	NA	NA	NA	NA	TCGA-TQ-A7RK-R1
+TCGA-TQ-A7RK	882		Surgery	NA	NA	NA	NA	NA	TCGA-TQ-A7RK-R2
+TCGA-TQ-A7RV	0		Surgery	NA	NA	NA	NA	NA	TCGA-TQ-A7RV-TP
+TCGA-TQ-A7RV	1156		Surgery	NA	NA	NA	NA	NA	TCGA-TQ-A7RV-R1
+TCGA-TQ-A8XE	0		Surgery	NA	NA	NA	NA	NA	TCGA-TQ-A8XE-TP
+TCGA-TQ-A8XE	395		Surgery	NA	NA	NA	NA	NA	TCGA-TQ-A8XE-R1
